@@ -1,0 +1,224 @@
+ Retrying in 1 seconds
+Could not connect to TraCI server at localhost:37483 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Could not connect to TraCI server at localhost:37483 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Could not connect to TraCI server at localhost:37483 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Could not connect to TraCI server at localhost:37483 [Errno 111] Connection refused
+ Retrying in 1 seconds
+mixed train ep 1 [uniform] delay=31.5
+ Retrying in 1 seconds
+mixed train ep 2 [platoon] delay=31.2
+ Retrying in 1 seconds
+mixed train ep 3 [gamma] delay=31.0
+ Retrying in 1 seconds
+mixed train ep 4 [bimodal] delay=32.0
+ Retrying in 1 seconds
+mixed train ep 5 [morning_peak] delay=31.3
+ Retrying in 1 seconds
+mixed train ep 6 [oversaturated] delay=33.0
+ Retrying in 1 seconds
+mixed train ep 7 [uniform] delay=29.6
+ Retrying in 1 seconds
+mixed train ep 8 [platoon] delay=30.5
+ Retrying in 1 seconds
+mixed train ep 9 [gamma] delay=28.4
+ Retrying in 1 seconds
+mixed train ep 10 [bimodal] delay=29.6
+ Retrying in 1 seconds
+mixed train ep 11 [morning_peak] delay=31.7
+ Retrying in 1 seconds
+mixed train ep 12 [oversaturated] delay=30.5
+ Retrying in 1 seconds
+mixed train ep 13 [uniform] delay=30.1
+ Retrying in 1 seconds
+mixed train ep 14 [platoon] delay=28.8
+ Retrying in 1 seconds
+mixed train ep 15 [gamma] delay=29.3
+ Retrying in 1 seconds
+mixed train ep 16 [bimodal] delay=29.4
+ Retrying in 1 seconds
+mixed train ep 17 [morning_peak] delay=28.1
+ Retrying in 1 seconds
+mixed train ep 18 [oversaturated] delay=29.4
+ Retrying in 1 seconds
+mixed train ep 19 [uniform] delay=29.2
+ Retrying in 1 seconds
+mixed train ep 20 [platoon] delay=29.2
+ Retrying in 1 seconds
+mixed train ep 21 [gamma] delay=29.3
+ Retrying in 1 seconds
+mixed train ep 22 [bimodal] delay=30.5
+ Retrying in 1 seconds
+mixed train ep 23 [morning_peak] delay=27.6
+ Retrying in 1 seconds
+mixed train ep 24 [oversaturated] delay=29.5
+ Retrying in 1 seconds
+mixed train ep 25 [uniform] delay=28.5
+ Retrying in 1 seconds
+mixed train ep 26 [platoon] delay=29.8
+ Retrying in 1 seconds
+mixed train ep 27 [gamma] delay=26.4
+ Retrying in 1 seconds
+mixed train ep 28 [bimodal] delay=27.4
+ Retrying in 1 seconds
+mixed train ep 29 [morning_peak] delay=26.8
+ Retrying in 1 seconds
+mixed train ep 30 [oversaturated] delay=27.8
+ Retrying in 1 seconds
+mixed train ep 31 [uniform] delay=25.3
+ Retrying in 1 seconds
+mixed train ep 32 [platoon] delay=24.8
+ Retrying in 1 seconds
+mixed train ep 33 [gamma] delay=24.3
+ Retrying in 1 seconds
+mixed train ep 34 [bimodal] delay=28.1
+ Retrying in 1 seconds
+mixed train ep 35 [morning_peak] delay=32.2
+ Retrying in 1 seconds
+mixed train ep 36 [oversaturated] delay=30.9
+ Retrying in 1 seconds
+mixed train ep 37 [uniform] delay=24.6
+ Retrying in 1 seconds
+mixed train ep 38 [platoon] delay=28.9
+ Retrying in 1 seconds
+mixed train ep 39 [gamma] delay=31.5
+ Retrying in 1 seconds
+mixed train ep 40 [bimodal] delay=31.3
+ Retrying in 1 seconds
+mixed train ep 41 [morning_peak] delay=25.4
+ Retrying in 1 seconds
+mixed train ep 42 [oversaturated] delay=29.8
+ Retrying in 1 seconds
+mixed train ep 43 [uniform] delay=29.5
+ Retrying in 1 seconds
+mixed train ep 44 [platoon] delay=28.7
+ Retrying in 1 seconds
+mixed train ep 45 [gamma] delay=32.4
+ Retrying in 1 seconds
+mixed train ep 46 [bimodal] delay=24.3
+ Retrying in 1 seconds
+mixed train ep 47 [morning_peak] delay=29.2
+ Retrying in 1 seconds
+mixed train ep 48 [oversaturated] delay=26.0
+ Retrying in 1 seconds
+mixed train ep 49 [uniform] delay=29.4
+ Retrying in 1 seconds
+mixed train ep 50 [platoon] delay=28.2
+ Retrying in 1 seconds
+mixed train ep 51 [gamma] delay=30.3
+ Retrying in 1 seconds
+mixed train ep 52 [bimodal] delay=26.3
+ Retrying in 1 seconds
+mixed train ep 53 [morning_peak] delay=28.3
+ Retrying in 1 seconds
+mixed train ep 54 [oversaturated] delay=31.3
+ Retrying in 1 seconds
+mixed train ep 55 [uniform] delay=25.4
+ Retrying in 1 seconds
+mixed train ep 56 [platoon] delay=26.7
+ Retrying in 1 seconds
+mixed train ep 57 [gamma] delay=33.5
+ Retrying in 1 seconds
+mixed train ep 58 [bimodal] delay=23.1
+ Retrying in 1 seconds
+mixed train ep 59 [morning_peak] delay=26.3
+ Retrying in 1 seconds
+mixed train ep 60 [oversaturated] delay=36.2
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+eval uniform seen
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+eval random UNSEEN
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+eval platoon seen
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+eval lognormal UNSEEN
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+eval gamma seen
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+eval weibull UNSEEN
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+eval erlang UNSEEN
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+eval oversaturated seen
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+eval free_flow UNSEEN
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+eval mixed_fleet UNSEEN
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+eval urban_arterial UNSEEN
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+eval highway_merge UNSEEN
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+eval incident UNSEEN
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+eval bimodal seen
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+eval morning_peak seen
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+eval evening_peak UNSEEN

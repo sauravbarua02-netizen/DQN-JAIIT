@@ -1,0 +1,2006 @@
+ Retrying in 1 seconds
+[uniform] train ep 1/40 eps=0.96 delay=32.6 queue=0.38
+ Retrying in 1 seconds
+[uniform] train ep 2/40 eps=0.92 delay=29.5 queue=0.31
+ Retrying in 1 seconds
+[uniform] train ep 3/40 eps=0.88 delay=29.8 queue=0.31
+ Retrying in 1 seconds
+[uniform] train ep 4/40 eps=0.84 delay=30.0 queue=0.33
+ Retrying in 1 seconds
+[uniform] train ep 5/40 eps=0.80 delay=29.3 queue=0.31
+ Retrying in 1 seconds
+[uniform] train ep 6/40 eps=0.76 delay=30.2 queue=0.33
+ Retrying in 1 seconds
+[uniform] train ep 7/40 eps=0.72 delay=29.8 queue=0.32
+ Retrying in 1 seconds
+[uniform] train ep 8/40 eps=0.68 delay=28.4 queue=0.30
+ Retrying in 1 seconds
+[uniform] train ep 9/40 eps=0.64 delay=29.9 queue=0.32
+ Retrying in 1 seconds
+[uniform] train ep 10/40 eps=0.60 delay=27.6 queue=0.27
+ Retrying in 1 seconds
+[uniform] train ep 11/40 eps=0.56 delay=30.6 queue=0.32
+ Retrying in 1 seconds
+[uniform] train ep 12/40 eps=0.53 delay=29.5 queue=0.30
+ Retrying in 1 seconds
+[uniform] train ep 13/40 eps=0.49 delay=27.4 queue=0.27
+ Retrying in 1 seconds
+[uniform] train ep 14/40 eps=0.45 delay=28.6 queue=0.30
+ Retrying in 1 seconds
+[uniform] train ep 15/40 eps=0.41 delay=27.9 queue=0.29
+ Retrying in 1 seconds
+[uniform] train ep 16/40 eps=0.37 delay=29.1 queue=0.31
+ Retrying in 1 seconds
+[uniform] train ep 17/40 eps=0.33 delay=27.5 queue=0.27
+ Retrying in 1 seconds
+[uniform] train ep 18/40 eps=0.29 delay=29.5 queue=0.31
+ Retrying in 1 seconds
+[uniform] train ep 19/40 eps=0.25 delay=26.4 queue=0.25
+ Retrying in 1 seconds
+[uniform] train ep 20/40 eps=0.21 delay=27.3 queue=0.27
+ Retrying in 1 seconds
+[uniform] train ep 21/40 eps=0.17 delay=27.6 queue=0.27
+ Retrying in 1 seconds
+[uniform] train ep 22/40 eps=0.13 delay=25.8 queue=0.25
+ Retrying in 1 seconds
+[uniform] train ep 23/40 eps=0.09 delay=22.5 queue=0.18
+ Retrying in 1 seconds
+[uniform] train ep 24/40 eps=0.05 delay=24.9 queue=0.23
+ Retrying in 1 seconds
+[uniform] train ep 25/40 eps=0.05 delay=22.5 queue=0.17
+ Retrying in 1 seconds
+[uniform] train ep 26/40 eps=0.05 delay=22.3 queue=0.17
+ Retrying in 1 seconds
+[uniform] train ep 27/40 eps=0.05 delay=24.7 queue=0.22
+ Retrying in 1 seconds
+[uniform] train ep 28/40 eps=0.05 delay=24.7 queue=0.22
+ Retrying in 1 seconds
+[uniform] train ep 29/40 eps=0.05 delay=22.8 queue=0.18
+ Retrying in 1 seconds
+[uniform] train ep 30/40 eps=0.05 delay=24.5 queue=0.21
+ Retrying in 1 seconds
+[uniform] train ep 31/40 eps=0.05 delay=23.8 queue=0.20
+ Retrying in 1 seconds
+[uniform] train ep 32/40 eps=0.05 delay=25.1 queue=0.22
+ Retrying in 1 seconds
+[uniform] train ep 33/40 eps=0.05 delay=29.4 queue=0.31
+ Retrying in 1 seconds
+[uniform] train ep 34/40 eps=0.05 delay=21.9 queue=0.17
+ Retrying in 1 seconds
+[uniform] train ep 35/40 eps=0.05 delay=22.4 queue=0.18
+ Retrying in 1 seconds
+[uniform] train ep 36/40 eps=0.05 delay=23.3 queue=0.19
+ Retrying in 1 seconds
+[uniform] train ep 37/40 eps=0.05 delay=23.8 queue=0.20
+ Retrying in 1 seconds
+[uniform] train ep 38/40 eps=0.05 delay=24.4 queue=0.21
+ Retrying in 1 seconds
+[uniform] train ep 39/40 eps=0.05 delay=21.9 queue=0.17
+ Retrying in 1 seconds
+[uniform] train ep 40/40 eps=0.05 delay=24.4 queue=0.22
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[uniform] eval seed 1: fixed_time=63 rule_original=21 rule_corrected=25 sumo_actuated=22 max_pressure=35 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[uniform] eval seed 2: fixed_time=63 rule_original=20 rule_corrected=29 sumo_actuated=22 max_pressure=31 dqn=20
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[uniform] eval seed 3: fixed_time=62 rule_original=22 rule_corrected=25 sumo_actuated=21 max_pressure=34 dqn=22
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[uniform] eval seed 4: fixed_time=61 rule_original=21 rule_corrected=28 sumo_actuated=21 max_pressure=26 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[uniform] eval seed 5: fixed_time=62 rule_original=21 rule_corrected=30 sumo_actuated=21 max_pressure=34 dqn=21
+[uniform] done in 338s
+ Retrying in 1 seconds
+[random] train ep 1/40 eps=0.96 delay=31.8 queue=0.38
+ Retrying in 1 seconds
+[random] train ep 2/40 eps=0.92 delay=29.6 queue=0.33
+ Retrying in 1 seconds
+[random] train ep 3/40 eps=0.88 delay=29.4 queue=0.32
+ Retrying in 1 seconds
+[random] train ep 4/40 eps=0.84 delay=29.1 queue=0.32
+ Retrying in 1 seconds
+[random] train ep 5/40 eps=0.80 delay=29.7 queue=0.33
+ Retrying in 1 seconds
+[random] train ep 6/40 eps=0.76 delay=30.6 queue=0.34
+ Retrying in 1 seconds
+[random] train ep 7/40 eps=0.72 delay=28.1 queue=0.29
+ Retrying in 1 seconds
+[random] train ep 8/40 eps=0.68 delay=28.4 queue=0.31
+ Retrying in 1 seconds
+[random] train ep 9/40 eps=0.64 delay=27.3 queue=0.27
+ Retrying in 1 seconds
+[random] train ep 10/40 eps=0.60 delay=29.2 queue=0.31
+ Retrying in 1 seconds
+[random] train ep 11/40 eps=0.56 delay=28.6 queue=0.31
+ Retrying in 1 seconds
+[random] train ep 12/40 eps=0.53 delay=27.1 queue=0.27
+ Retrying in 1 seconds
+[random] train ep 13/40 eps=0.49 delay=27.9 queue=0.29
+ Retrying in 1 seconds
+[random] train ep 14/40 eps=0.45 delay=27.0 queue=0.27
+ Retrying in 1 seconds
+[random] train ep 15/40 eps=0.41 delay=27.9 queue=0.29
+ Retrying in 1 seconds
+[random] train ep 16/40 eps=0.37 delay=27.7 queue=0.29
+ Retrying in 1 seconds
+[random] train ep 17/40 eps=0.33 delay=24.6 queue=0.22
+ Retrying in 1 seconds
+[random] train ep 18/40 eps=0.29 delay=27.0 queue=0.26
+ Retrying in 1 seconds
+[random] train ep 19/40 eps=0.25 delay=25.1 queue=0.23
+ Retrying in 1 seconds
+[random] train ep 20/40 eps=0.21 delay=26.1 queue=0.26
+ Retrying in 1 seconds
+[random] train ep 21/40 eps=0.17 delay=23.9 queue=0.21
+ Retrying in 1 seconds
+[random] train ep 22/40 eps=0.13 delay=23.3 queue=0.20
+ Retrying in 1 seconds
+[random] train ep 23/40 eps=0.09 delay=25.7 queue=0.24
+ Retrying in 1 seconds
+[random] train ep 24/40 eps=0.05 delay=24.9 queue=0.23
+ Retrying in 1 seconds
+[random] train ep 25/40 eps=0.05 delay=32.9 queue=0.39
+ Retrying in 1 seconds
+[random] train ep 26/40 eps=0.05 delay=22.9 queue=0.20
+ Retrying in 1 seconds
+[random] train ep 27/40 eps=0.05 delay=23.4 queue=0.20
+ Retrying in 1 seconds
+[random] train ep 28/40 eps=0.05 delay=22.4 queue=0.17
+ Retrying in 1 seconds
+[random] train ep 29/40 eps=0.05 delay=24.8 queue=0.22
+ Retrying in 1 seconds
+[random] train ep 30/40 eps=0.05 delay=23.7 queue=0.21
+ Retrying in 1 seconds
+[random] train ep 31/40 eps=0.05 delay=26.7 queue=0.26
+ Retrying in 1 seconds
+[random] train ep 32/40 eps=0.05 delay=25.2 queue=0.24
+ Retrying in 1 seconds
+[random] train ep 33/40 eps=0.05 delay=23.0 queue=0.19
+ Retrying in 1 seconds
+[random] train ep 34/40 eps=0.05 delay=21.4 queue=0.16
+ Retrying in 1 seconds
+[random] train ep 35/40 eps=0.05 delay=21.2 queue=0.16
+ Retrying in 1 seconds
+[random] train ep 36/40 eps=0.05 delay=25.0 queue=0.23
+ Retrying in 1 seconds
+[random] train ep 37/40 eps=0.05 delay=22.2 queue=0.18
+ Retrying in 1 seconds
+[random] train ep 38/40 eps=0.05 delay=23.7 queue=0.21
+ Retrying in 1 seconds
+[random] train ep 39/40 eps=0.05 delay=21.8 queue=0.17
+ Retrying in 1 seconds
+[random] train ep 40/40 eps=0.05 delay=26.9 queue=0.26
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[random] eval seed 1: fixed_time=61 rule_original=20 rule_corrected=22 sumo_actuated=20 max_pressure=22 dqn=23
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[random] eval seed 2: fixed_time=62 rule_original=21 rule_corrected=32 sumo_actuated=22 max_pressure=32 dqn=32
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[random] eval seed 3: fixed_time=61 rule_original=21 rule_corrected=25 sumo_actuated=21 max_pressure=29 dqn=23
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[random] eval seed 4: fixed_time=61 rule_original=21 rule_corrected=25 sumo_actuated=20 max_pressure=24 dqn=26
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[random] eval seed 5: fixed_time=61 rule_original=21 rule_corrected=31 sumo_actuated=21 max_pressure=30 dqn=23
+[random] done in 327s
+ Retrying in 1 seconds
+[platoon] train ep 1/40 eps=0.96 delay=31.4 queue=0.38
+ Retrying in 1 seconds
+[platoon] train ep 2/40 eps=0.92 delay=30.1 queue=0.33
+ Retrying in 1 seconds
+[platoon] train ep 3/40 eps=0.88 delay=29.2 queue=0.31
+ Retrying in 1 seconds
+[platoon] train ep 4/40 eps=0.84 delay=30.3 queue=0.34
+ Retrying in 1 seconds
+[platoon] train ep 5/40 eps=0.80 delay=29.6 queue=0.32
+ Retrying in 1 seconds
+[platoon] train ep 6/40 eps=0.76 delay=29.9 queue=0.33
+ Retrying in 1 seconds
+[platoon] train ep 7/40 eps=0.72 delay=30.3 queue=0.33
+ Retrying in 1 seconds
+[platoon] train ep 8/40 eps=0.68 delay=28.7 queue=0.30
+ Retrying in 1 seconds
+[platoon] train ep 9/40 eps=0.64 delay=30.0 queue=0.32
+ Retrying in 1 seconds
+[platoon] train ep 10/40 eps=0.60 delay=28.7 queue=0.30
+ Retrying in 1 seconds
+[platoon] train ep 11/40 eps=0.56 delay=31.0 queue=0.33
+ Retrying in 1 seconds
+[platoon] train ep 12/40 eps=0.53 delay=29.3 queue=0.30
+ Retrying in 1 seconds
+[platoon] train ep 13/40 eps=0.49 delay=27.6 queue=0.28
+ Retrying in 1 seconds
+[platoon] train ep 14/40 eps=0.45 delay=28.7 queue=0.30
+ Retrying in 1 seconds
+[platoon] train ep 15/40 eps=0.41 delay=28.0 queue=0.28
+ Retrying in 1 seconds
+[platoon] train ep 16/40 eps=0.37 delay=28.9 queue=0.31
+ Retrying in 1 seconds
+[platoon] train ep 17/40 eps=0.33 delay=28.5 queue=0.30
+ Retrying in 1 seconds
+[platoon] train ep 18/40 eps=0.29 delay=27.4 queue=0.28
+ Retrying in 1 seconds
+[platoon] train ep 19/40 eps=0.25 delay=25.8 queue=0.24
+ Retrying in 1 seconds
+[platoon] train ep 20/40 eps=0.21 delay=26.7 queue=0.26
+ Retrying in 1 seconds
+[platoon] train ep 21/40 eps=0.17 delay=25.9 queue=0.25
+ Retrying in 1 seconds
+[platoon] train ep 22/40 eps=0.13 delay=30.0 queue=0.32
+ Retrying in 1 seconds
+[platoon] train ep 23/40 eps=0.09 delay=25.2 queue=0.22
+ Retrying in 1 seconds
+[platoon] train ep 24/40 eps=0.05 delay=32.0 queue=0.36
+ Retrying in 1 seconds
+[platoon] train ep 25/40 eps=0.05 delay=30.5 queue=0.34
+ Retrying in 1 seconds
+[platoon] train ep 26/40 eps=0.05 delay=30.5 queue=0.34
+ Retrying in 1 seconds
+[platoon] train ep 27/40 eps=0.05 delay=25.5 queue=0.24
+ Retrying in 1 seconds
+[platoon] train ep 28/40 eps=0.05 delay=23.7 queue=0.20
+ Retrying in 1 seconds
+[platoon] train ep 29/40 eps=0.05 delay=32.4 queue=0.38
+ Retrying in 1 seconds
+[platoon] train ep 30/40 eps=0.05 delay=29.2 queue=0.31
+ Retrying in 1 seconds
+[platoon] train ep 31/40 eps=0.05 delay=30.6 queue=0.34
+ Retrying in 1 seconds
+[platoon] train ep 32/40 eps=0.05 delay=23.9 queue=0.22
+ Retrying in 1 seconds
+[platoon] train ep 33/40 eps=0.05 delay=30.0 queue=0.33
+ Retrying in 1 seconds
+[platoon] train ep 34/40 eps=0.05 delay=23.6 queue=0.20
+ Retrying in 1 seconds
+[platoon] train ep 35/40 eps=0.05 delay=22.8 queue=0.19
+ Retrying in 1 seconds
+[platoon] train ep 36/40 eps=0.05 delay=23.5 queue=0.19
+ Retrying in 1 seconds
+[platoon] train ep 37/40 eps=0.05 delay=32.4 queue=0.37
+ Retrying in 1 seconds
+[platoon] train ep 38/40 eps=0.05 delay=27.4 queue=0.26
+ Retrying in 1 seconds
+[platoon] train ep 39/40 eps=0.05 delay=23.8 queue=0.20
+ Retrying in 1 seconds
+[platoon] train ep 40/40 eps=0.05 delay=32.0 queue=0.35
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[platoon] eval seed 1: fixed_time=62 rule_original=21 rule_corrected=27 sumo_actuated=21 max_pressure=34 dqn=32
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[platoon] eval seed 2: fixed_time=63 rule_original=21 rule_corrected=26 sumo_actuated=21 max_pressure=26 dqn=37
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[platoon] eval seed 3: fixed_time=61 rule_original=22 rule_corrected=26 sumo_actuated=21 max_pressure=34 dqn=32
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[platoon] eval seed 4: fixed_time=62 rule_original=22 rule_corrected=27 sumo_actuated=21 max_pressure=27 dqn=32
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[platoon] eval seed 5: fixed_time=62 rule_original=21 rule_corrected=27 sumo_actuated=21 max_pressure=32 dqn=32
+[platoon] done in 321s
+ Retrying in 1 seconds
+[lognormal] train ep 1/40 eps=0.96 delay=31.3 queue=0.37
+ Retrying in 1 seconds
+[lognormal] train ep 2/40 eps=0.92 delay=29.5 queue=0.32
+ Retrying in 1 seconds
+[lognormal] train ep 3/40 eps=0.88 delay=29.6 queue=0.31
+ Retrying in 1 seconds
+[lognormal] train ep 4/40 eps=0.84 delay=29.7 queue=0.33
+ Retrying in 1 seconds
+[lognormal] train ep 5/40 eps=0.80 delay=28.6 queue=0.31
+ Retrying in 1 seconds
+[lognormal] train ep 6/40 eps=0.76 delay=29.0 queue=0.32
+ Retrying in 1 seconds
+[lognormal] train ep 7/40 eps=0.72 delay=29.3 queue=0.31
+ Retrying in 1 seconds
+[lognormal] train ep 8/40 eps=0.68 delay=27.2 queue=0.28
+ Retrying in 1 seconds
+[lognormal] train ep 9/40 eps=0.64 delay=28.9 queue=0.31
+ Retrying in 1 seconds
+[lognormal] train ep 10/40 eps=0.60 delay=27.7 queue=0.28
+ Retrying in 1 seconds
+[lognormal] train ep 11/40 eps=0.56 delay=29.8 queue=0.32
+ Retrying in 1 seconds
+[lognormal] train ep 12/40 eps=0.53 delay=29.2 queue=0.30
+ Retrying in 1 seconds
+[lognormal] train ep 13/40 eps=0.49 delay=26.7 queue=0.27
+ Retrying in 1 seconds
+[lognormal] train ep 14/40 eps=0.45 delay=28.0 queue=0.30
+ Retrying in 1 seconds
+[lognormal] train ep 15/40 eps=0.41 delay=27.6 queue=0.28
+ Retrying in 1 seconds
+[lognormal] train ep 16/40 eps=0.37 delay=28.4 queue=0.31
+ Retrying in 1 seconds
+[lognormal] train ep 17/40 eps=0.33 delay=27.9 queue=0.28
+ Retrying in 1 seconds
+[lognormal] train ep 18/40 eps=0.29 delay=30.1 queue=0.33
+ Retrying in 1 seconds
+[lognormal] train ep 19/40 eps=0.25 delay=25.4 queue=0.24
+ Retrying in 1 seconds
+[lognormal] train ep 20/40 eps=0.21 delay=27.5 queue=0.28
+ Retrying in 1 seconds
+[lognormal] train ep 21/40 eps=0.17 delay=26.1 queue=0.25
+ Retrying in 1 seconds
+[lognormal] train ep 22/40 eps=0.13 delay=25.6 queue=0.24
+ Retrying in 1 seconds
+[lognormal] train ep 23/40 eps=0.09 delay=22.4 queue=0.18
+ Retrying in 1 seconds
+[lognormal] train ep 24/40 eps=0.05 delay=24.4 queue=0.22
+ Retrying in 1 seconds
+[lognormal] train ep 25/40 eps=0.05 delay=21.4 queue=0.15
+ Retrying in 1 seconds
+[lognormal] train ep 26/40 eps=0.05 delay=22.0 queue=0.17
+ Retrying in 1 seconds
+[uniform] done in 2s
+[random] done in 0s
+[platoon] done in 0s
+ Retrying in 1 seconds
+[lognormal] train ep 1/40 eps=0.96 delay=31.3 queue=0.37
+ Retrying in 1 seconds
+[lognormal] train ep 2/40 eps=0.92 delay=29.5 queue=0.32
+ Retrying in 1 seconds
+[lognormal] train ep 3/40 eps=0.88 delay=29.6 queue=0.31
+ Retrying in 1 seconds
+[lognormal] train ep 4/40 eps=0.84 delay=29.7 queue=0.33
+ Retrying in 1 seconds
+[lognormal] train ep 5/40 eps=0.80 delay=28.6 queue=0.31
+ Retrying in 1 seconds
+[lognormal] train ep 6/40 eps=0.76 delay=29.0 queue=0.32
+ Retrying in 1 seconds
+[lognormal] train ep 7/40 eps=0.72 delay=29.3 queue=0.31
+ Retrying in 1 seconds
+[lognormal] train ep 8/40 eps=0.68 delay=27.2 queue=0.28
+ Retrying in 1 seconds
+[lognormal] train ep 9/40 eps=0.64 delay=28.9 queue=0.31
+ Retrying in 1 seconds
+[lognormal] train ep 10/40 eps=0.60 delay=27.7 queue=0.28
+ Retrying in 1 seconds
+[lognormal] train ep 11/40 eps=0.56 delay=29.8 queue=0.32
+ Retrying in 1 seconds
+[lognormal] train ep 12/40 eps=0.53 delay=29.2 queue=0.30
+ Retrying in 1 seconds
+[lognormal] train ep 13/40 eps=0.49 delay=26.7 queue=0.27
+ Retrying in 1 seconds
+[lognormal] train ep 14/40 eps=0.45 delay=28.0 queue=0.30
+ Retrying in 1 seconds
+[lognormal] train ep 15/40 eps=0.41 delay=27.6 queue=0.28
+ Retrying in 1 seconds
+[lognormal] train ep 16/40 eps=0.37 delay=28.4 queue=0.31
+ Retrying in 1 seconds
+[lognormal] train ep 17/40 eps=0.33 delay=27.9 queue=0.28
+ Retrying in 1 seconds
+[lognormal] train ep 18/40 eps=0.29 delay=30.1 queue=0.33
+ Retrying in 1 seconds
+[lognormal] train ep 19/40 eps=0.25 delay=25.4 queue=0.24
+ Retrying in 1 seconds
+[lognormal] train ep 20/40 eps=0.21 delay=27.5 queue=0.28
+ Retrying in 1 seconds
+[lognormal] train ep 21/40 eps=0.17 delay=26.1 queue=0.25
+ Retrying in 1 seconds
+[lognormal] train ep 22/40 eps=0.13 delay=25.6 queue=0.24
+ Retrying in 1 seconds
+[lognormal] train ep 23/40 eps=0.09 delay=22.4 queue=0.18
+ Retrying in 1 seconds
+[lognormal] train ep 24/40 eps=0.05 delay=24.4 queue=0.22
+ Retrying in 1 seconds
+[lognormal] train ep 25/40 eps=0.05 delay=21.4 queue=0.15
+ Retrying in 1 seconds
+[lognormal] train ep 26/40 eps=0.05 delay=22.0 queue=0.17
+ Retrying in 1 seconds
+[lognormal] train ep 27/40 eps=0.05 delay=23.5 queue=0.20
+ Retrying in 1 seconds
+[lognormal] train ep 28/40 eps=0.05 delay=23.7 queue=0.21
+ Retrying in 1 seconds
+[lognormal] train ep 29/40 eps=0.05 delay=23.4 queue=0.20
+ Retrying in 1 seconds
+[lognormal] train ep 30/40 eps=0.05 delay=24.0 queue=0.21
+ Retrying in 1 seconds
+[lognormal] train ep 31/40 eps=0.05 delay=23.4 queue=0.20
+ Retrying in 1 seconds
+[lognormal] train ep 32/40 eps=0.05 delay=24.0 queue=0.21
+ Retrying in 1 seconds
+[lognormal] train ep 33/40 eps=0.05 delay=29.6 queue=0.31
+ Retrying in 1 seconds
+[lognormal] train ep 34/40 eps=0.05 delay=21.8 queue=0.17
+ Retrying in 1 seconds
+[lognormal] train ep 35/40 eps=0.05 delay=22.4 queue=0.17
+ Retrying in 1 seconds
+[lognormal] train ep 36/40 eps=0.05 delay=23.0 queue=0.18
+ Retrying in 1 seconds
+[lognormal] train ep 37/40 eps=0.05 delay=23.8 queue=0.20
+ Retrying in 1 seconds
+[lognormal] train ep 38/40 eps=0.05 delay=23.8 queue=0.20
+ Retrying in 1 seconds
+[lognormal] train ep 39/40 eps=0.05 delay=21.6 queue=0.17
+ Retrying in 1 seconds
+[lognormal] train ep 40/40 eps=0.05 delay=23.7 queue=0.20
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[lognormal] eval seed 1: fixed_time=62 rule_original=21 rule_corrected=29 sumo_actuated=21 max_pressure=27 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[lognormal] eval seed 2: fixed_time=62 rule_original=21 rule_corrected=27 sumo_actuated=21 max_pressure=35 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[lognormal] eval seed 3: fixed_time=62 rule_original=21 rule_corrected=26 sumo_actuated=21 max_pressure=27 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[lognormal] eval seed 4: fixed_time=62 rule_original=21 rule_corrected=25 sumo_actuated=21 max_pressure=25 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[lognormal] eval seed 5: fixed_time=62 rule_original=21 rule_corrected=30 sumo_actuated=21 max_pressure=26 dqn=21
+[lognormal] done in 315s
+ Retrying in 1 seconds
+[gamma] train ep 1/40 eps=0.96 delay=31.4 queue=0.38
+ Retrying in 1 seconds
+[gamma] train ep 2/40 eps=0.92 delay=30.0 queue=0.33
+ Retrying in 1 seconds
+[gamma] train ep 3/40 eps=0.88 delay=29.5 queue=0.31
+ Retrying in 1 seconds
+[gamma] train ep 4/40 eps=0.84 delay=30.2 queue=0.34
+ Retrying in 1 seconds
+[gamma] train ep 5/40 eps=0.80 delay=28.1 queue=0.30
+ Retrying in 1 seconds
+[gamma] train ep 6/40 eps=0.76 delay=29.6 queue=0.33
+ Retrying in 1 seconds
+[gamma] train ep 7/40 eps=0.72 delay=29.1 queue=0.31
+ Retrying in 1 seconds
+[gamma] train ep 8/40 eps=0.68 delay=28.1 queue=0.30
+ Retrying in 1 seconds
+[gamma] train ep 9/40 eps=0.64 delay=29.3 queue=0.31
+ Retrying in 1 seconds
+[gamma] train ep 10/40 eps=0.60 delay=28.0 queue=0.28
+ Retrying in 1 seconds
+[gamma] train ep 11/40 eps=0.56 delay=29.8 queue=0.32
+ Retrying in 1 seconds
+[gamma] train ep 12/40 eps=0.53 delay=29.3 queue=0.30
+ Retrying in 1 seconds
+[gamma] train ep 13/40 eps=0.49 delay=27.6 queue=0.28
+ Retrying in 1 seconds
+[gamma] train ep 14/40 eps=0.45 delay=28.3 queue=0.30
+ Retrying in 1 seconds
+[gamma] train ep 15/40 eps=0.41 delay=27.5 queue=0.28
+ Retrying in 1 seconds
+[gamma] train ep 16/40 eps=0.37 delay=28.8 queue=0.31
+ Retrying in 1 seconds
+[gamma] train ep 17/40 eps=0.33 delay=27.3 queue=0.26
+ Retrying in 1 seconds
+[gamma] train ep 18/40 eps=0.29 delay=28.6 queue=0.31
+ Retrying in 1 seconds
+[gamma] train ep 19/40 eps=0.25 delay=25.6 queue=0.24
+ Retrying in 1 seconds
+[gamma] train ep 20/40 eps=0.21 delay=27.3 queue=0.28
+ Retrying in 1 seconds
+[gamma] train ep 21/40 eps=0.17 delay=26.8 queue=0.26
+ Retrying in 1 seconds
+[gamma] train ep 22/40 eps=0.13 delay=25.0 queue=0.23
+ Retrying in 1 seconds
+[gamma] train ep 23/40 eps=0.09 delay=22.5 queue=0.18
+ Retrying in 1 seconds
+[gamma] train ep 24/40 eps=0.05 delay=25.0 queue=0.23
+ Retrying in 1 seconds
+[gamma] train ep 25/40 eps=0.05 delay=21.4 queue=0.16
+ Retrying in 1 seconds
+[gamma] train ep 26/40 eps=0.05 delay=22.4 queue=0.17
+ Retrying in 1 seconds
+[gamma] train ep 27/40 eps=0.05 delay=23.4 queue=0.20
+ Retrying in 1 seconds
+[gamma] train ep 28/40 eps=0.05 delay=24.0 queue=0.21
+ Retrying in 1 seconds
+[gamma] train ep 29/40 eps=0.05 delay=23.4 queue=0.19
+ Retrying in 1 seconds
+[gamma] train ep 30/40 eps=0.05 delay=24.4 queue=0.21
+ Retrying in 1 seconds
+[gamma] train ep 31/40 eps=0.05 delay=23.7 queue=0.20
+ Retrying in 1 seconds
+[gamma] train ep 32/40 eps=0.05 delay=23.9 queue=0.21
+ Retrying in 1 seconds
+[gamma] train ep 33/40 eps=0.05 delay=22.6 queue=0.18
+ Retrying in 1 seconds
+[gamma] train ep 34/40 eps=0.05 delay=25.6 queue=0.24
+ Retrying in 1 seconds
+[gamma] train ep 35/40 eps=0.05 delay=21.7 queue=0.16
+ Retrying in 1 seconds
+[gamma] train ep 36/40 eps=0.05 delay=25.9 queue=0.25
+ Retrying in 1 seconds
+[gamma] train ep 37/40 eps=0.05 delay=20.9 queue=0.15
+ Retrying in 1 seconds
+[gamma] train ep 38/40 eps=0.05 delay=24.7 queue=0.22
+ Retrying in 1 seconds
+[gamma] train ep 39/40 eps=0.05 delay=21.5 queue=0.15
+ Retrying in 1 seconds
+[gamma] train ep 40/40 eps=0.05 delay=22.2 queue=0.17
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[gamma] eval seed 1: fixed_time=62 rule_original=21 rule_corrected=30 sumo_actuated=22 max_pressure=33 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[gamma] eval seed 2: fixed_time=62 rule_original=22 rule_corrected=24 sumo_actuated=21 max_pressure=24 dqn=22
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[gamma] eval seed 3: fixed_time=62 rule_original=21 rule_corrected=28 sumo_actuated=21 max_pressure=33 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[gamma] eval seed 4: fixed_time=62 rule_original=21 rule_corrected=26 sumo_actuated=22 max_pressure=26 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[gamma] eval seed 5: fixed_time=62 rule_original=21 rule_corrected=29 sumo_actuated=21 max_pressure=30 dqn=21
+[gamma] done in 319s
+ Retrying in 1 seconds
+[weibull] train ep 1/40 eps=0.96 delay=31.4 queue=0.37
+ Retrying in 1 seconds
+[weibull] train ep 2/40 eps=0.92 delay=29.6 queue=0.32
+ Retrying in 1 seconds
+[weibull] train ep 3/40 eps=0.88 delay=28.8 queue=0.29
+ Retrying in 1 seconds
+[weibull] train ep 4/40 eps=0.84 delay=29.7 queue=0.33
+ Retrying in 1 seconds
+[weibull] train ep 5/40 eps=0.80 delay=29.0 queue=0.31
+ Retrying in 1 seconds
+[weibull] train ep 6/40 eps=0.76 delay=29.2 queue=0.32
+ Retrying in 1 seconds
+[weibull] train ep 7/40 eps=0.72 delay=28.8 queue=0.30
+ Retrying in 1 seconds
+[weibull] train ep 8/40 eps=0.68 delay=27.4 queue=0.29
+ Retrying in 1 seconds
+[weibull] train ep 9/40 eps=0.64 delay=29.7 queue=0.31
+ Retrying in 1 seconds
+[weibull] train ep 10/40 eps=0.60 delay=27.9 queue=0.29
+ Retrying in 1 seconds
+[weibull] train ep 11/40 eps=0.56 delay=29.7 queue=0.32
+ Retrying in 1 seconds
+[weibull] train ep 12/40 eps=0.53 delay=28.9 queue=0.30
+ Retrying in 1 seconds
+[weibull] train ep 13/40 eps=0.49 delay=26.7 queue=0.26
+ Retrying in 1 seconds
+[weibull] train ep 14/40 eps=0.45 delay=28.6 queue=0.30
+ Retrying in 1 seconds
+[weibull] train ep 15/40 eps=0.41 delay=27.3 queue=0.28
+ Retrying in 1 seconds
+[weibull] train ep 16/40 eps=0.37 delay=27.6 queue=0.29
+ Retrying in 1 seconds
+[weibull] train ep 17/40 eps=0.33 delay=27.8 queue=0.28
+ Retrying in 1 seconds
+[weibull] train ep 18/40 eps=0.29 delay=28.9 queue=0.31
+ Retrying in 1 seconds
+[weibull] train ep 19/40 eps=0.25 delay=25.7 queue=0.24
+ Retrying in 1 seconds
+[weibull] train ep 20/40 eps=0.21 delay=27.0 queue=0.27
+ Retrying in 1 seconds
+[weibull] train ep 21/40 eps=0.17 delay=26.2 queue=0.26
+ Retrying in 1 seconds
+[weibull] train ep 22/40 eps=0.13 delay=25.6 queue=0.24
+ Retrying in 1 seconds
+[weibull] train ep 23/40 eps=0.09 delay=23.0 queue=0.18
+ Retrying in 1 seconds
+[weibull] train ep 24/40 eps=0.05 delay=25.1 queue=0.23
+ Retrying in 1 seconds
+[weibull] train ep 25/40 eps=0.05 delay=22.0 queue=0.16
+ Retrying in 1 seconds
+[weibull] train ep 26/40 eps=0.05 delay=22.0 queue=0.17
+ Retrying in 1 seconds
+[weibull] train ep 27/40 eps=0.05 delay=23.8 queue=0.21
+ Retrying in 1 seconds
+[weibull] train ep 28/40 eps=0.05 delay=23.7 queue=0.20
+ Retrying in 1 seconds
+[weibull] train ep 29/40 eps=0.05 delay=23.2 queue=0.19
+ Retrying in 1 seconds
+[weibull] train ep 30/40 eps=0.05 delay=24.1 queue=0.21
+ Retrying in 1 seconds
+[weibull] train ep 31/40 eps=0.05 delay=23.7 queue=0.20
+ Retrying in 1 seconds
+[weibull] train ep 32/40 eps=0.05 delay=24.1 queue=0.21
+ Retrying in 1 seconds
+[weibull] train ep 33/40 eps=0.05 delay=29.6 queue=0.31
+ Retrying in 1 seconds
+[weibull] train ep 34/40 eps=0.05 delay=22.0 queue=0.17
+ Retrying in 1 seconds
+[weibull] train ep 35/40 eps=0.05 delay=22.2 queue=0.17
+ Retrying in 1 seconds
+[weibull] train ep 36/40 eps=0.05 delay=23.2 queue=0.19
+ Retrying in 1 seconds
+[weibull] train ep 37/40 eps=0.05 delay=23.2 queue=0.19
+ Retrying in 1 seconds
+[weibull] train ep 38/40 eps=0.05 delay=23.9 queue=0.21
+ Retrying in 1 seconds
+[weibull] train ep 39/40 eps=0.05 delay=21.7 queue=0.17
+ Retrying in 1 seconds
+[weibull] train ep 40/40 eps=0.05 delay=24.1 queue=0.21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[weibull] eval seed 1: fixed_time=61 rule_original=21 rule_corrected=31 sumo_actuated=22 max_pressure=31 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[weibull] eval seed 2: fixed_time=61 rule_original=21 rule_corrected=32 sumo_actuated=21 max_pressure=30 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[weibull] eval seed 3: fixed_time=63 rule_original=21 rule_corrected=29 sumo_actuated=20 max_pressure=26 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[weibull] eval seed 4: fixed_time=63 rule_original=21 rule_corrected=25 sumo_actuated=21 max_pressure=26 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[weibull] eval seed 5: fixed_time=61 rule_original=21 rule_corrected=27 sumo_actuated=21 max_pressure=29 dqn=21
+[weibull] done in 327s
+ Retrying in 1 seconds
+[erlang] train ep 1/40 eps=0.96 delay=31.4 queue=0.37
+ Retrying in 1 seconds
+[erlang] train ep 2/40 eps=0.92 delay=29.8 queue=0.33
+ Retrying in 1 seconds
+[erlang] train ep 3/40 eps=0.88 delay=29.1 queue=0.30
+ Retrying in 1 seconds
+[erlang] train ep 4/40 eps=0.84 delay=29.7 queue=0.33
+ Retrying in 1 seconds
+[erlang] train ep 5/40 eps=0.80 delay=28.5 queue=0.30
+ Retrying in 1 seconds
+[erlang] train ep 6/40 eps=0.76 delay=29.2 queue=0.32
+ Retrying in 1 seconds
+[erlang] train ep 7/40 eps=0.72 delay=29.4 queue=0.32
+ Retrying in 1 seconds
+[erlang] train ep 8/40 eps=0.68 delay=28.8 queue=0.30
+ Retrying in 1 seconds
+[erlang] train ep 9/40 eps=0.64 delay=28.7 queue=0.30
+ Retrying in 1 seconds
+[erlang] train ep 10/40 eps=0.60 delay=27.1 queue=0.27
+ Retrying in 1 seconds
+[erlang] train ep 11/40 eps=0.56 delay=29.8 queue=0.31
+ Retrying in 1 seconds
+[erlang] train ep 12/40 eps=0.53 delay=28.8 queue=0.30
+ Retrying in 1 seconds
+[erlang] train ep 13/40 eps=0.49 delay=26.8 queue=0.27
+ Retrying in 1 seconds
+[erlang] train ep 14/40 eps=0.45 delay=28.2 queue=0.30
+ Retrying in 1 seconds
+[erlang] train ep 15/40 eps=0.41 delay=27.7 queue=0.28
+ Retrying in 1 seconds
+[erlang] train ep 16/40 eps=0.37 delay=28.6 queue=0.31
+ Retrying in 1 seconds
+[erlang] train ep 17/40 eps=0.33 delay=27.3 queue=0.27
+ Retrying in 1 seconds
+[erlang] train ep 18/40 eps=0.29 delay=29.6 queue=0.32
+ Retrying in 1 seconds
+[erlang] train ep 19/40 eps=0.25 delay=25.8 queue=0.24
+ Retrying in 1 seconds
+[erlang] train ep 20/40 eps=0.21 delay=27.3 queue=0.27
+ Retrying in 1 seconds
+[erlang] train ep 21/40 eps=0.17 delay=26.9 queue=0.27
+ Retrying in 1 seconds
+[erlang] train ep 22/40 eps=0.13 delay=24.8 queue=0.23
+ Retrying in 1 seconds
+[erlang] train ep 23/40 eps=0.09 delay=22.1 queue=0.18
+ Retrying in 1 seconds
+[erlang] train ep 24/40 eps=0.05 delay=24.7 queue=0.23
+ Retrying in 1 seconds
+[erlang] train ep 25/40 eps=0.05 delay=21.9 queue=0.16
+ Retrying in 1 seconds
+[erlang] train ep 26/40 eps=0.05 delay=22.1 queue=0.17
+ Retrying in 1 seconds
+[erlang] train ep 27/40 eps=0.05 delay=23.6 queue=0.20
+ Retrying in 1 seconds
+[erlang] train ep 28/40 eps=0.05 delay=23.7 queue=0.20
+ Retrying in 1 seconds
+[erlang] train ep 29/40 eps=0.05 delay=22.8 queue=0.18
+ Retrying in 1 seconds
+[erlang] train ep 30/40 eps=0.05 delay=23.9 queue=0.20
+ Retrying in 1 seconds
+[erlang] train ep 31/40 eps=0.05 delay=23.5 queue=0.20
+ Retrying in 1 seconds
+[erlang] train ep 32/40 eps=0.05 delay=24.0 queue=0.21
+ Retrying in 1 seconds
+[erlang] train ep 33/40 eps=0.05 delay=29.5 queue=0.31
+ Retrying in 1 seconds
+[erlang] train ep 34/40 eps=0.05 delay=22.1 queue=0.17
+ Retrying in 1 seconds
+[erlang] train ep 35/40 eps=0.05 delay=21.8 queue=0.17
+ Retrying in 1 seconds
+[erlang] train ep 36/40 eps=0.05 delay=23.1 queue=0.19
+ Retrying in 1 seconds
+[erlang] train ep 37/40 eps=0.05 delay=23.0 queue=0.19
+ Retrying in 1 seconds
+[erlang] train ep 38/40 eps=0.05 delay=23.5 queue=0.20
+ Retrying in 1 seconds
+[erlang] train ep 39/40 eps=0.05 delay=22.1 queue=0.17
+ Retrying in 1 seconds
+[erlang] train ep 40/40 eps=0.05 delay=24.1 queue=0.21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[erlang] eval seed 1: fixed_time=62 rule_original=21 rule_corrected=26 sumo_actuated=22 max_pressure=26 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[erlang] eval seed 2: fixed_time=62 rule_original=21 rule_corrected=28 sumo_actuated=21 max_pressure=28 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[erlang] eval seed 3: fixed_time=62 rule_original=21 rule_corrected=30 sumo_actuated=21 max_pressure=35 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[erlang] eval seed 4: fixed_time=63 rule_original=21 rule_corrected=22 sumo_actuated=20 max_pressure=22 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[erlang] eval seed 5: fixed_time=62 rule_original=21 rule_corrected=28 sumo_actuated=21 max_pressure=27 dqn=21
+[erlang] done in 315s
+ Retrying in 1 seconds
+[oversaturated] train ep 1/40 eps=0.96 delay=34.3 queue=0.60
+ Retrying in 1 seconds
+[oversaturated] train ep 2/40 eps=0.92 delay=32.6 queue=0.53
+ Retrying in 1 seconds
+[oversaturated] train ep 3/40 eps=0.88 delay=31.5 queue=0.48
+ Retrying in 1 seconds
+[oversaturated] train ep 4/40 eps=0.84 delay=32.1 queue=0.53
+ Retrying in 1 seconds
+[oversaturated] train ep 5/40 eps=0.80 delay=30.6 queue=0.49
+ Retrying in 1 seconds
+[oversaturated] train ep 6/40 eps=0.76 delay=31.8 queue=0.51
+ Retrying in 1 seconds
+[oversaturated] train ep 7/40 eps=0.72 delay=31.7 queue=0.49
+ Retrying in 1 seconds
+[oversaturated] train ep 8/40 eps=0.68 delay=30.7 queue=0.47
+ Retrying in 1 seconds
+[oversaturated] train ep 9/40 eps=0.64 delay=30.9 queue=0.48
+ Retrying in 1 seconds
+[oversaturated] train ep 10/40 eps=0.60 delay=29.8 queue=0.45
+ Retrying in 1 seconds
+[oversaturated] train ep 11/40 eps=0.56 delay=32.5 queue=0.50
+ Retrying in 1 seconds
+[oversaturated] train ep 12/40 eps=0.53 delay=31.1 queue=0.48
+ Retrying in 1 seconds
+[oversaturated] train ep 13/40 eps=0.49 delay=29.5 queue=0.44
+ Retrying in 1 seconds
+[oversaturated] train ep 14/40 eps=0.45 delay=30.2 queue=0.47
+ Retrying in 1 seconds
+[oversaturated] train ep 15/40 eps=0.41 delay=31.0 queue=0.48
+ Retrying in 1 seconds
+[oversaturated] train ep 16/40 eps=0.37 delay=31.0 queue=0.50
+ Retrying in 1 seconds
+[oversaturated] train ep 17/40 eps=0.33 delay=30.3 queue=0.45
+ Retrying in 1 seconds
+[oversaturated] train ep 18/40 eps=0.29 delay=32.6 queue=0.52
+ Retrying in 1 seconds
+[oversaturated] train ep 19/40 eps=0.25 delay=27.7 queue=0.39
+ Retrying in 1 seconds
+[oversaturated] train ep 20/40 eps=0.21 delay=29.8 queue=0.44
+ Retrying in 1 seconds
+[oversaturated] train ep 21/40 eps=0.17 delay=29.5 queue=0.44
+ Retrying in 1 seconds
+[oversaturated] train ep 22/40 eps=0.13 delay=27.7 queue=0.39
+ Retrying in 1 seconds
+[oversaturated] train ep 23/40 eps=0.09 delay=23.7 queue=0.28
+ Retrying in 1 seconds
+[oversaturated] train ep 24/40 eps=0.05 delay=26.7 queue=0.37
+ Retrying in 1 seconds
+[oversaturated] train ep 25/40 eps=0.05 delay=23.7 queue=0.27
+ Retrying in 1 seconds
+[oversaturated] train ep 26/40 eps=0.05 delay=25.0 queue=0.32
+ Retrying in 1 seconds
+[oversaturated] train ep 27/40 eps=0.05 delay=25.3 queue=0.32
+ Retrying in 1 seconds
+[oversaturated] train ep 28/40 eps=0.05 delay=24.1 queue=0.29
+ Retrying in 1 seconds
+[oversaturated] train ep 29/40 eps=0.05 delay=27.4 queue=0.37
+ Retrying in 1 seconds
+[oversaturated] train ep 30/40 eps=0.05 delay=30.6 queue=0.47
+ Retrying in 1 seconds
+[oversaturated] train ep 31/40 eps=0.05 delay=23.0 queue=0.26
+ Retrying in 1 seconds
+[oversaturated] train ep 32/40 eps=0.05 delay=33.8 queue=0.58
+ Retrying in 1 seconds
+[oversaturated] train ep 33/40 eps=0.05 delay=35.4 queue=0.61
+ Retrying in 1 seconds
+[oversaturated] train ep 34/40 eps=0.05 delay=36.0 queue=0.63
+ Retrying in 1 seconds
+[oversaturated] train ep 35/40 eps=0.05 delay=25.0 queue=0.30
+ Retrying in 1 seconds
+[oversaturated] train ep 36/40 eps=0.05 delay=33.9 queue=0.57
+ Retrying in 1 seconds
+[oversaturated] train ep 37/40 eps=0.05 delay=26.1 queue=0.35
+ Retrying in 1 seconds
+[oversaturated] train ep 38/40 eps=0.05 delay=24.4 queue=0.31
+ Retrying in 1 seconds
+[oversaturated] train ep 39/40 eps=0.05 delay=27.7 queue=0.40
+ Retrying in 1 seconds
+[oversaturated] train ep 40/40 eps=0.05 delay=27.5 queue=0.39
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[oversaturated] eval seed 1: fixed_time=64 rule_original=23 rule_corrected=27 sumo_actuated=24 max_pressure=25 dqn=23
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[oversaturated] eval seed 2: fixed_time=64 rule_original=23 rule_corrected=27 sumo_actuated=24 max_pressure=28 dqn=23
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[oversaturated] eval seed 3: fixed_time=65 rule_original=22 rule_corrected=32 sumo_actuated=24 max_pressure=31 dqn=23
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[oversaturated] eval seed 4: fixed_time=65 rule_original=22 rule_corrected=30 sumo_actuated=23 max_pressure=30 dqn=23
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[oversaturated] eval seed 5: fixed_time=65 rule_original=22 rule_corrected=31 sumo_actuated=23 max_pressure=39 dqn=23
+[oversaturated] done in 377s
+ Retrying in 1 seconds
+[free_flow] train ep 1/40 eps=0.96 delay=30.2 queue=0.18
+ Retrying in 1 seconds
+[free_flow] train ep 2/40 eps=0.92 delay=29.5 queue=0.16
+ Retrying in 1 seconds
+[free_flow] train ep 3/40 eps=0.88 delay=28.6 queue=0.15
+ Retrying in 1 seconds
+[free_flow] train ep 4/40 eps=0.84 delay=27.3 queue=0.14
+ Retrying in 1 seconds
+[free_flow] train ep 5/40 eps=0.80 delay=28.3 queue=0.15
+ Retrying in 1 seconds
+[free_flow] train ep 6/40 eps=0.76 delay=28.5 queue=0.15
+ Retrying in 1 seconds
+[free_flow] train ep 7/40 eps=0.72 delay=27.1 queue=0.14
+ Retrying in 1 seconds
+[free_flow] train ep 8/40 eps=0.68 delay=27.9 queue=0.15
+ Retrying in 1 seconds
+[free_flow] train ep 9/40 eps=0.64 delay=25.9 queue=0.12
+ Retrying in 1 seconds
+[free_flow] train ep 10/40 eps=0.60 delay=28.1 queue=0.15
+ Retrying in 1 seconds
+[free_flow] train ep 11/40 eps=0.56 delay=27.2 queue=0.15
+ Retrying in 1 seconds
+[free_flow] train ep 12/40 eps=0.53 delay=26.1 queue=0.13
+ Retrying in 1 seconds
+[free_flow] train ep 13/40 eps=0.49 delay=27.6 queue=0.14
+ Retrying in 1 seconds
+[free_flow] train ep 14/40 eps=0.45 delay=25.8 queue=0.13
+ Retrying in 1 seconds
+[free_flow] train ep 15/40 eps=0.41 delay=29.8 queue=0.16
+ Retrying in 1 seconds
+[free_flow] train ep 16/40 eps=0.37 delay=26.2 queue=0.13
+ Retrying in 1 seconds
+[free_flow] train ep 17/40 eps=0.33 delay=30.1 queue=0.17
+ Retrying in 1 seconds
+[free_flow] train ep 18/40 eps=0.29 delay=25.8 queue=0.13
+ Retrying in 1 seconds
+[free_flow] train ep 19/40 eps=0.25 delay=27.5 queue=0.14
+ Retrying in 1 seconds
+[free_flow] train ep 20/40 eps=0.21 delay=25.6 queue=0.12
+ Retrying in 1 seconds
+[free_flow] train ep 21/40 eps=0.17 delay=28.3 queue=0.15
+ Retrying in 1 seconds
+[free_flow] train ep 22/40 eps=0.13 delay=24.8 queue=0.12
+ Retrying in 1 seconds
+[free_flow] train ep 23/40 eps=0.09 delay=25.2 queue=0.12
+ Retrying in 1 seconds
+[free_flow] train ep 24/40 eps=0.05 delay=24.9 queue=0.11
+ Retrying in 1 seconds
+[free_flow] train ep 25/40 eps=0.05 delay=26.1 queue=0.12
+ Retrying in 1 seconds
+[free_flow] train ep 26/40 eps=0.05 delay=26.6 queue=0.14
+ Retrying in 1 seconds
+[free_flow] train ep 27/40 eps=0.05 delay=30.9 queue=0.17
+ Retrying in 1 seconds
+[free_flow] train ep 28/40 eps=0.05 delay=22.8 queue=0.10
+ Retrying in 1 seconds
+[free_flow] train ep 29/40 eps=0.05 delay=27.5 queue=0.14
+ Retrying in 1 seconds
+[free_flow] train ep 30/40 eps=0.05 delay=22.5 queue=0.10
+ Retrying in 1 seconds
+[free_flow] train ep 31/40 eps=0.05 delay=25.5 queue=0.13
+ Retrying in 1 seconds
+[free_flow] train ep 32/40 eps=0.05 delay=22.4 queue=0.09
+ Retrying in 1 seconds
+[free_flow] train ep 33/40 eps=0.05 delay=26.5 queue=0.13
+ Retrying in 1 seconds
+[free_flow] train ep 34/40 eps=0.05 delay=26.1 queue=0.13
+ Retrying in 1 seconds
+[free_flow] train ep 35/40 eps=0.05 delay=22.9 queue=0.09
+ Retrying in 1 seconds
+[free_flow] train ep 36/40 eps=0.05 delay=27.3 queue=0.14
+ Retrying in 1 seconds
+[free_flow] train ep 37/40 eps=0.05 delay=24.2 queue=0.12
+ Retrying in 1 seconds
+[free_flow] train ep 38/40 eps=0.05 delay=24.3 queue=0.11
+ Retrying in 1 seconds
+[free_flow] train ep 39/40 eps=0.05 delay=25.1 queue=0.12
+ Retrying in 1 seconds
+[free_flow] train ep 40/40 eps=0.05 delay=27.9 queue=0.14
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[free_flow] eval seed 1: fixed_time=58 rule_original=20 rule_corrected=24 sumo_actuated=19 max_pressure=26 dqn=23
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[free_flow] eval seed 2: fixed_time=61 rule_original=20 rule_corrected=25 sumo_actuated=21 max_pressure=27 dqn=24
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[free_flow] eval seed 3: fixed_time=58 rule_original=20 rule_corrected=24 sumo_actuated=19 max_pressure=24 dqn=25
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[free_flow] eval seed 4: fixed_time=59 rule_original=20 rule_corrected=25 sumo_actuated=20 max_pressure=27 dqn=22
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[free_flow] eval seed 5: fixed_time=60 rule_original=21 rule_corrected=24 sumo_actuated=19 max_pressure=26 dqn=27
+[free_flow] done in 279s
+ Retrying in 1 seconds
+[mixed_fleet] train ep 1/40 eps=0.96 delay=31.0 queue=0.36
+ Retrying in 1 seconds
+[mixed_fleet] train ep 2/40 eps=0.92 delay=29.5 queue=0.32
+ Retrying in 1 seconds
+[mixed_fleet] train ep 3/40 eps=0.88 delay=28.9 queue=0.30
+ Retrying in 1 seconds
+[mixed_fleet] train ep 4/40 eps=0.84 delay=29.6 queue=0.33
+ Retrying in 1 seconds
+[mixed_fleet] train ep 5/40 eps=0.80 delay=28.6 queue=0.31
+ Retrying in 1 seconds
+[mixed_fleet] train ep 6/40 eps=0.76 delay=28.0 queue=0.30
+ Retrying in 1 seconds
+[mixed_fleet] train ep 7/40 eps=0.72 delay=28.3 queue=0.29
+ Retrying in 1 seconds
+[mixed_fleet] train ep 8/40 eps=0.68 delay=27.7 queue=0.29
+ Retrying in 1 seconds
+[mixed_fleet] train ep 9/40 eps=0.64 delay=28.3 queue=0.29
+ Retrying in 1 seconds
+[mixed_fleet] train ep 10/40 eps=0.60 delay=27.0 queue=0.27
+ Retrying in 1 seconds
+[mixed_fleet] train ep 11/40 eps=0.56 delay=30.3 queue=0.32
+ Retrying in 1 seconds
+[mixed_fleet] train ep 12/40 eps=0.53 delay=28.7 queue=0.30
+ Retrying in 1 seconds
+[mixed_fleet] train ep 13/40 eps=0.49 delay=26.1 queue=0.25
+ Retrying in 1 seconds
+[mixed_fleet] train ep 14/40 eps=0.45 delay=28.2 queue=0.30
+ Retrying in 1 seconds
+[mixed_fleet] train ep 15/40 eps=0.41 delay=27.4 queue=0.28
+ Retrying in 1 seconds
+[mixed_fleet] train ep 16/40 eps=0.37 delay=28.1 queue=0.30
+ Retrying in 1 seconds
+[mixed_fleet] train ep 17/40 eps=0.33 delay=28.6 queue=0.30
+ Retrying in 1 seconds
+[mixed_fleet] train ep 18/40 eps=0.29 delay=29.0 queue=0.30
+ Retrying in 1 seconds
+[mixed_fleet] train ep 19/40 eps=0.25 delay=27.0 queue=0.27
+ Retrying in 1 seconds
+[mixed_fleet] train ep 20/40 eps=0.21 delay=25.5 queue=0.24
+ Retrying in 1 seconds
+[mixed_fleet] train ep 21/40 eps=0.17 delay=25.4 queue=0.24
+ Retrying in 1 seconds
+[mixed_fleet] train ep 22/40 eps=0.13 delay=26.2 queue=0.26
+ Retrying in 1 seconds
+[mixed_fleet] train ep 23/40 eps=0.09 delay=22.5 queue=0.19
+ Retrying in 1 seconds
+[mixed_fleet] train ep 24/40 eps=0.05 delay=23.5 queue=0.21
+ Retrying in 1 seconds
+[mixed_fleet] train ep 25/40 eps=0.05 delay=24.3 queue=0.22
+ Retrying in 1 seconds
+[mixed_fleet] train ep 26/40 eps=0.05 delay=21.7 queue=0.17
+ Retrying in 1 seconds
+[mixed_fleet] train ep 27/40 eps=0.05 delay=21.7 queue=0.17
+ Retrying in 1 seconds
+[mixed_fleet] train ep 28/40 eps=0.05 delay=22.0 queue=0.17
+ Retrying in 1 seconds
+[mixed_fleet] train ep 29/40 eps=0.05 delay=23.7 queue=0.21
+ Retrying in 1 seconds
+[mixed_fleet] train ep 30/40 eps=0.05 delay=20.9 queue=0.16
+ Retrying in 1 seconds
+[mixed_fleet] train ep 31/40 eps=0.05 delay=24.3 queue=0.21
+ Retrying in 1 seconds
+[mixed_fleet] train ep 32/40 eps=0.05 delay=23.9 queue=0.21
+ Retrying in 1 seconds
+[mixed_fleet] train ep 33/40 eps=0.05 delay=21.1 queue=0.15
+ Retrying in 1 seconds
+[mixed_fleet] train ep 34/40 eps=0.05 delay=21.7 queue=0.16
+ Retrying in 1 seconds
+[mixed_fleet] train ep 35/40 eps=0.05 delay=20.8 queue=0.15
+ Retrying in 1 seconds
+[mixed_fleet] train ep 36/40 eps=0.05 delay=22.9 queue=0.19
+ Retrying in 1 seconds
+[mixed_fleet] train ep 37/40 eps=0.05 delay=25.4 queue=0.24
+ Retrying in 1 seconds
+[uniform] done in 8s
+[random] done in 0s
+[platoon] done in 0s
+[lognormal] done in 0s
+[gamma] done in 0s
+[weibull] done in 0s
+[erlang] done in 0s
+[oversaturated] done in 0s
+[free_flow] done in 0s
+ Retrying in 1 seconds
+Could not connect to TraCI server at localhost:42587 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Could not connect to TraCI server at localhost:42587 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Could not connect to TraCI server at localhost:42587 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Could not connect to TraCI server at localhost:42587 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Could not connect to TraCI server at localhost:42587 [Errno 111] Connection refused
+ Retrying in 1 seconds
+[mixed_fleet] train ep 1/40 eps=0.96 delay=31.0 queue=0.36
+ Retrying in 1 seconds
+[mixed_fleet] train ep 2/40 eps=0.92 delay=29.5 queue=0.32
+ Retrying in 1 seconds
+[mixed_fleet] train ep 3/40 eps=0.88 delay=28.9 queue=0.30
+ Retrying in 1 seconds
+[mixed_fleet] train ep 4/40 eps=0.84 delay=29.6 queue=0.33
+ Retrying in 1 seconds
+[mixed_fleet] train ep 5/40 eps=0.80 delay=28.6 queue=0.31
+ Retrying in 1 seconds
+[mixed_fleet] train ep 6/40 eps=0.76 delay=28.0 queue=0.30
+ Retrying in 1 seconds
+[mixed_fleet] train ep 7/40 eps=0.72 delay=28.3 queue=0.29
+ Retrying in 1 seconds
+[mixed_fleet] train ep 8/40 eps=0.68 delay=27.7 queue=0.29
+ Retrying in 1 seconds
+[mixed_fleet] train ep 9/40 eps=0.64 delay=28.3 queue=0.29
+ Retrying in 1 seconds
+[mixed_fleet] train ep 10/40 eps=0.60 delay=27.0 queue=0.27
+ Retrying in 1 seconds
+[mixed_fleet] train ep 11/40 eps=0.56 delay=30.3 queue=0.32
+ Retrying in 1 seconds
+[mixed_fleet] train ep 12/40 eps=0.53 delay=28.7 queue=0.30
+ Retrying in 1 seconds
+[mixed_fleet] train ep 13/40 eps=0.49 delay=26.1 queue=0.25
+ Retrying in 1 seconds
+[mixed_fleet] train ep 14/40 eps=0.45 delay=28.2 queue=0.30
+ Retrying in 1 seconds
+[mixed_fleet] train ep 15/40 eps=0.41 delay=27.4 queue=0.28
+ Retrying in 1 seconds
+[mixed_fleet] train ep 16/40 eps=0.37 delay=28.1 queue=0.30
+ Retrying in 1 seconds
+[mixed_fleet] train ep 17/40 eps=0.33 delay=28.6 queue=0.30
+ Retrying in 1 seconds
+[mixed_fleet] train ep 18/40 eps=0.29 delay=29.0 queue=0.30
+ Retrying in 1 seconds
+[mixed_fleet] train ep 19/40 eps=0.25 delay=27.0 queue=0.27
+ Retrying in 1 seconds
+[mixed_fleet] train ep 20/40 eps=0.21 delay=25.5 queue=0.24
+ Retrying in 1 seconds
+[mixed_fleet] train ep 21/40 eps=0.17 delay=25.4 queue=0.24
+ Retrying in 1 seconds
+[mixed_fleet] train ep 22/40 eps=0.13 delay=26.2 queue=0.26
+ Retrying in 1 seconds
+[mixed_fleet] train ep 23/40 eps=0.09 delay=22.5 queue=0.19
+ Retrying in 1 seconds
+[mixed_fleet] train ep 24/40 eps=0.05 delay=23.5 queue=0.21
+ Retrying in 1 seconds
+[mixed_fleet] train ep 25/40 eps=0.05 delay=24.3 queue=0.22
+ Retrying in 1 seconds
+[mixed_fleet] train ep 26/40 eps=0.05 delay=21.7 queue=0.17
+ Retrying in 1 seconds
+[mixed_fleet] train ep 27/40 eps=0.05 delay=21.7 queue=0.17
+ Retrying in 1 seconds
+[mixed_fleet] train ep 28/40 eps=0.05 delay=22.0 queue=0.17
+ Retrying in 1 seconds
+[mixed_fleet] train ep 29/40 eps=0.05 delay=23.7 queue=0.21
+ Retrying in 1 seconds
+[mixed_fleet] train ep 30/40 eps=0.05 delay=20.9 queue=0.16
+ Retrying in 1 seconds
+[mixed_fleet] train ep 31/40 eps=0.05 delay=24.3 queue=0.21
+ Retrying in 1 seconds
+[mixed_fleet] train ep 32/40 eps=0.05 delay=23.9 queue=0.21
+ Retrying in 1 seconds
+[mixed_fleet] train ep 33/40 eps=0.05 delay=21.1 queue=0.15
+ Retrying in 1 seconds
+[mixed_fleet] train ep 34/40 eps=0.05 delay=21.7 queue=0.16
+ Retrying in 1 seconds
+[mixed_fleet] train ep 35/40 eps=0.05 delay=20.8 queue=0.15
+ Retrying in 1 seconds
+[mixed_fleet] train ep 36/40 eps=0.05 delay=22.9 queue=0.19
+ Retrying in 1 seconds
+[mixed_fleet] train ep 37/40 eps=0.05 delay=25.4 queue=0.24
+ Retrying in 1 seconds
+[mixed_fleet] train ep 38/40 eps=0.05 delay=26.1 queue=0.25
+ Retrying in 1 seconds
+[mixed_fleet] train ep 39/40 eps=0.05 delay=27.0 queue=0.27
+ Retrying in 1 seconds
+[mixed_fleet] train ep 40/40 eps=0.05 delay=24.9 queue=0.23
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[mixed_fleet] eval seed 1: fixed_time=61 rule_original=21 rule_corrected=28 sumo_actuated=21 max_pressure=31 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[mixed_fleet] eval seed 2: fixed_time=62 rule_original=20 rule_corrected=24 sumo_actuated=21 max_pressure=24 dqn=20
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[mixed_fleet] eval seed 3: fixed_time=62 rule_original=20 rule_corrected=29 sumo_actuated=20 max_pressure=30 dqn=20
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[mixed_fleet] eval seed 4: fixed_time=62 rule_original=21 rule_corrected=22 sumo_actuated=21 max_pressure=22 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[mixed_fleet] eval seed 5: fixed_time=62 rule_original=21 rule_corrected=24 sumo_actuated=20 max_pressure=24 dqn=21
+[mixed_fleet] done in 292s
+ Retrying in 1 seconds
+[urban_arterial] train ep 1/40 eps=0.96 delay=32.1 queue=0.37
+ Retrying in 1 seconds
+[urban_arterial] train ep 2/40 eps=0.92 delay=30.7 queue=0.34
+ Retrying in 1 seconds
+[urban_arterial] train ep 3/40 eps=0.88 delay=30.1 queue=0.32
+ Retrying in 1 seconds
+[urban_arterial] train ep 4/40 eps=0.84 delay=30.3 queue=0.35
+ Retrying in 1 seconds
+[urban_arterial] train ep 5/40 eps=0.80 delay=29.6 queue=0.32
+ Retrying in 1 seconds
+[urban_arterial] train ep 6/40 eps=0.76 delay=29.5 queue=0.32
+ Retrying in 1 seconds
+[urban_arterial] train ep 7/40 eps=0.72 delay=29.0 queue=0.31
+ Retrying in 1 seconds
+[urban_arterial] train ep 8/40 eps=0.68 delay=28.9 queue=0.30
+ Retrying in 1 seconds
+[urban_arterial] train ep 9/40 eps=0.64 delay=30.0 queue=0.32
+ Retrying in 1 seconds
+[urban_arterial] train ep 10/40 eps=0.60 delay=28.0 queue=0.28
+ Retrying in 1 seconds
+[urban_arterial] train ep 11/40 eps=0.56 delay=30.8 queue=0.33
+ Retrying in 1 seconds
+[urban_arterial] train ep 12/40 eps=0.53 delay=29.7 queue=0.31
+ Retrying in 1 seconds
+[urban_arterial] train ep 13/40 eps=0.49 delay=27.2 queue=0.27
+ Retrying in 1 seconds
+[urban_arterial] train ep 14/40 eps=0.45 delay=29.8 queue=0.32
+ Retrying in 1 seconds
+[urban_arterial] train ep 15/40 eps=0.41 delay=28.6 queue=0.29
+ Retrying in 1 seconds
+[urban_arterial] train ep 16/40 eps=0.37 delay=28.8 queue=0.30
+ Retrying in 1 seconds
+[urban_arterial] train ep 17/40 eps=0.33 delay=28.8 queue=0.29
+ Retrying in 1 seconds
+[urban_arterial] train ep 18/40 eps=0.29 delay=30.5 queue=0.34
+ Retrying in 1 seconds
+[urban_arterial] train ep 19/40 eps=0.25 delay=26.8 queue=0.25
+ Retrying in 1 seconds
+[urban_arterial] train ep 20/40 eps=0.21 delay=27.4 queue=0.27
+ Retrying in 1 seconds
+[urban_arterial] train ep 21/40 eps=0.17 delay=27.5 queue=0.27
+ Retrying in 1 seconds
+[urban_arterial] train ep 22/40 eps=0.13 delay=26.1 queue=0.25
+ Retrying in 1 seconds
+[urban_arterial] train ep 23/40 eps=0.09 delay=22.9 queue=0.18
+ Retrying in 1 seconds
+[urban_arterial] train ep 24/40 eps=0.05 delay=25.0 queue=0.23
+ Retrying in 1 seconds
+[urban_arterial] train ep 25/40 eps=0.05 delay=22.5 queue=0.17
+ Retrying in 1 seconds
+[urban_arterial] train ep 26/40 eps=0.05 delay=22.7 queue=0.17
+ Retrying in 1 seconds
+[urban_arterial] train ep 27/40 eps=0.05 delay=24.4 queue=0.21
+ Retrying in 1 seconds
+[urban_arterial] train ep 28/40 eps=0.05 delay=24.2 queue=0.21
+ Retrying in 1 seconds
+[urban_arterial] train ep 29/40 eps=0.05 delay=24.0 queue=0.20
+ Retrying in 1 seconds
+[urban_arterial] train ep 30/40 eps=0.05 delay=24.9 queue=0.22
+ Retrying in 1 seconds
+[urban_arterial] train ep 31/40 eps=0.05 delay=24.2 queue=0.21
+ Retrying in 1 seconds
+[urban_arterial] train ep 32/40 eps=0.05 delay=25.1 queue=0.22
+ Retrying in 1 seconds
+[urban_arterial] train ep 33/40 eps=0.05 delay=30.5 queue=0.32
+ Retrying in 1 seconds
+[urban_arterial] train ep 34/40 eps=0.05 delay=22.8 queue=0.18
+ Retrying in 1 seconds
+[urban_arterial] train ep 35/40 eps=0.05 delay=22.3 queue=0.17
+ Retrying in 1 seconds
+[urban_arterial] train ep 36/40 eps=0.05 delay=23.9 queue=0.19
+ Retrying in 1 seconds
+[urban_arterial] train ep 37/40 eps=0.05 delay=23.5 queue=0.19
+ Retrying in 1 seconds
+[urban_arterial] train ep 38/40 eps=0.05 delay=24.2 queue=0.21
+ Retrying in 1 seconds
+[urban_arterial] train ep 39/40 eps=0.05 delay=22.7 queue=0.17
+ Retrying in 1 seconds
+[urban_arterial] train ep 40/40 eps=0.05 delay=24.1 queue=0.21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[urban_arterial] eval seed 1: fixed_time=63 rule_original=22 rule_corrected=27 sumo_actuated=22 max_pressure=29 dqn=22
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[urban_arterial] eval seed 2: fixed_time=62 rule_original=21 rule_corrected=27 sumo_actuated=21 max_pressure=33 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[urban_arterial] eval seed 3: fixed_time=62 rule_original=21 rule_corrected=26 sumo_actuated=23 max_pressure=34 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[urban_arterial] eval seed 4: fixed_time=62 rule_original=21 rule_corrected=27 sumo_actuated=22 max_pressure=35 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[urban_arterial] eval seed 5: fixed_time=63 rule_original=22 rule_corrected=27 sumo_actuated=22 max_pressure=37 dqn=22
+[urban_arterial] done in 285s
+ Retrying in 1 seconds
+[highway_merge] train ep 1/40 eps=0.96 delay=31.5 queue=0.37
+ Retrying in 1 seconds
+[highway_merge] train ep 2/40 eps=0.92 delay=30.3 queue=0.34
+ Retrying in 1 seconds
+[highway_merge] train ep 3/40 eps=0.88 delay=29.4 queue=0.31
+ Retrying in 1 seconds
+[highway_merge] train ep 4/40 eps=0.84 delay=30.8 queue=0.35
+ Retrying in 1 seconds
+[highway_merge] train ep 5/40 eps=0.80 delay=28.9 queue=0.31
+ Retrying in 1 seconds
+[highway_merge] train ep 6/40 eps=0.76 delay=29.7 queue=0.33
+ Retrying in 1 seconds
+[highway_merge] train ep 7/40 eps=0.72 delay=29.1 queue=0.31
+ Retrying in 1 seconds
+[highway_merge] train ep 8/40 eps=0.68 delay=27.7 queue=0.30
+ Retrying in 1 seconds
+[highway_merge] train ep 9/40 eps=0.64 delay=29.4 queue=0.31
+ Retrying in 1 seconds
+[highway_merge] train ep 10/40 eps=0.60 delay=27.5 queue=0.28
+ Retrying in 1 seconds
+[highway_merge] train ep 11/40 eps=0.56 delay=30.6 queue=0.33
+ Retrying in 1 seconds
+[highway_merge] train ep 12/40 eps=0.53 delay=28.9 queue=0.30
+ Retrying in 1 seconds
+[highway_merge] train ep 13/40 eps=0.49 delay=27.2 queue=0.27
+ Retrying in 1 seconds
+[highway_merge] train ep 14/40 eps=0.45 delay=28.7 queue=0.31
+ Retrying in 1 seconds
+[highway_merge] train ep 15/40 eps=0.41 delay=27.8 queue=0.28
+ Retrying in 1 seconds
+[highway_merge] train ep 16/40 eps=0.37 delay=28.8 queue=0.31
+ Retrying in 1 seconds
+[highway_merge] train ep 17/40 eps=0.33 delay=26.9 queue=0.27
+ Retrying in 1 seconds
+[highway_merge] train ep 18/40 eps=0.29 delay=29.4 queue=0.31
+ Retrying in 1 seconds
+[highway_merge] train ep 19/40 eps=0.25 delay=25.5 queue=0.24
+ Retrying in 1 seconds
+[highway_merge] train ep 20/40 eps=0.21 delay=27.0 queue=0.27
+ Retrying in 1 seconds
+[highway_merge] train ep 21/40 eps=0.17 delay=27.7 queue=0.28
+ Retrying in 1 seconds
+[highway_merge] train ep 22/40 eps=0.13 delay=25.6 queue=0.25
+ Retrying in 1 seconds
+[highway_merge] train ep 23/40 eps=0.09 delay=22.4 queue=0.18
+ Retrying in 1 seconds
+[highway_merge] train ep 24/40 eps=0.05 delay=24.3 queue=0.23
+ Retrying in 1 seconds
+[highway_merge] train ep 25/40 eps=0.05 delay=22.1 queue=0.16
+ Retrying in 1 seconds
+[highway_merge] train ep 26/40 eps=0.05 delay=22.1 queue=0.17
+ Retrying in 1 seconds
+[highway_merge] train ep 27/40 eps=0.05 delay=24.1 queue=0.21
+ Retrying in 1 seconds
+[highway_merge] train ep 28/40 eps=0.05 delay=24.1 queue=0.21
+ Retrying in 1 seconds
+[highway_merge] train ep 29/40 eps=0.05 delay=22.5 queue=0.18
+ Retrying in 1 seconds
+[highway_merge] train ep 30/40 eps=0.05 delay=24.4 queue=0.21
+ Retrying in 1 seconds
+[highway_merge] train ep 31/40 eps=0.05 delay=24.5 queue=0.21
+ Retrying in 1 seconds
+[highway_merge] train ep 32/40 eps=0.05 delay=24.5 queue=0.22
+ Retrying in 1 seconds
+[highway_merge] train ep 33/40 eps=0.05 delay=29.4 queue=0.31
+ Retrying in 1 seconds
+[highway_merge] train ep 34/40 eps=0.05 delay=22.0 queue=0.17
+ Retrying in 1 seconds
+[highway_merge] train ep 35/40 eps=0.05 delay=22.9 queue=0.18
+ Retrying in 1 seconds
+[highway_merge] train ep 36/40 eps=0.05 delay=22.9 queue=0.19
+ Retrying in 1 seconds
+[highway_merge] train ep 37/40 eps=0.05 delay=23.9 queue=0.20
+ Retrying in 1 seconds
+[highway_merge] train ep 38/40 eps=0.05 delay=24.4 queue=0.21
+ Retrying in 1 seconds
+[highway_merge] train ep 39/40 eps=0.05 delay=22.0 queue=0.17
+ Retrying in 1 seconds
+[highway_merge] train ep 40/40 eps=0.05 delay=24.1 queue=0.21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[highway_merge] eval seed 1: fixed_time=61 rule_original=22 rule_corrected=32 sumo_actuated=21 max_pressure=29 dqn=22
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[highway_merge] eval seed 2: fixed_time=62 rule_original=21 rule_corrected=28 sumo_actuated=20 max_pressure=34 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[highway_merge] eval seed 3: fixed_time=62 rule_original=21 rule_corrected=27 sumo_actuated=22 max_pressure=30 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[highway_merge] eval seed 4: fixed_time=62 rule_original=21 rule_corrected=28 sumo_actuated=22 max_pressure=29 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[highway_merge] eval seed 5: fixed_time=62 rule_original=21 rule_corrected=23 sumo_actuated=21 max_pressure=23 dqn=21
+[highway_merge] done in 286s
+ Retrying in 1 seconds
+[incident] train ep 1/40 eps=0.96 delay=32.7 queue=0.38
+ Retrying in 1 seconds
+[incident] train ep 2/40 eps=0.92 delay=31.2 queue=0.34
+ Retrying in 1 seconds
+[incident] train ep 3/40 eps=0.88 delay=30.5 queue=0.32
+ Retrying in 1 seconds
+[incident] train ep 4/40 eps=0.84 delay=31.4 queue=0.35
+ Retrying in 1 seconds
+[incident] train ep 5/40 eps=0.80 delay=31.8 queue=0.34
+ Retrying in 1 seconds
+[incident] train ep 6/40 eps=0.76 delay=30.9 queue=0.34
+ Retrying in 1 seconds
+[incident] train ep 7/40 eps=0.72 delay=30.0 queue=0.32
+ Retrying in 1 seconds
+[incident] train ep 8/40 eps=0.68 delay=29.2 queue=0.30
+ Retrying in 1 seconds
+[incident] train ep 9/40 eps=0.64 delay=30.9 queue=0.32
+ Retrying in 1 seconds
+[incident] train ep 10/40 eps=0.60 delay=28.9 queue=0.29
+ Retrying in 1 seconds
+[incident] train ep 11/40 eps=0.56 delay=31.2 queue=0.33
+ Retrying in 1 seconds
+[incident] train ep 12/40 eps=0.53 delay=30.4 queue=0.32
+ Retrying in 1 seconds
+[incident] train ep 13/40 eps=0.49 delay=27.6 queue=0.27
+ Retrying in 1 seconds
+[incident] train ep 14/40 eps=0.45 delay=29.2 queue=0.31
+ Retrying in 1 seconds
+[incident] train ep 15/40 eps=0.41 delay=29.6 queue=0.31
+ Retrying in 1 seconds
+[incident] train ep 16/40 eps=0.37 delay=29.9 queue=0.32
+ Retrying in 1 seconds
+[incident] train ep 17/40 eps=0.33 delay=29.4 queue=0.29
+ Retrying in 1 seconds
+[incident] train ep 18/40 eps=0.29 delay=29.7 queue=0.32
+ Retrying in 1 seconds
+[incident] train ep 19/40 eps=0.25 delay=27.2 queue=0.26
+ Retrying in 1 seconds
+[incident] train ep 20/40 eps=0.21 delay=28.1 queue=0.29
+ Retrying in 1 seconds
+[incident] train ep 21/40 eps=0.17 delay=28.0 queue=0.27
+ Retrying in 1 seconds
+[incident] train ep 22/40 eps=0.13 delay=27.3 queue=0.27
+ Retrying in 1 seconds
+[incident] train ep 23/40 eps=0.09 delay=23.1 queue=0.18
+ Retrying in 1 seconds
+[incident] train ep 24/40 eps=0.05 delay=25.3 queue=0.22
+ Retrying in 1 seconds
+[incident] train ep 25/40 eps=0.05 delay=22.8 queue=0.17
+ Retrying in 1 seconds
+[incident] train ep 26/40 eps=0.05 delay=22.6 queue=0.17
+ Retrying in 1 seconds
+[incident] train ep 27/40 eps=0.05 delay=30.2 queue=0.32
+ Retrying in 1 seconds
+[incident] train ep 28/40 eps=0.05 delay=26.1 queue=0.24
+ Retrying in 1 seconds
+[incident] train ep 29/40 eps=0.05 delay=25.0 queue=0.22
+ Retrying in 1 seconds
+[incident] train ep 30/40 eps=0.05 delay=23.0 queue=0.19
+ Retrying in 1 seconds
+[incident] train ep 31/40 eps=0.05 delay=25.2 queue=0.22
+ Retrying in 1 seconds
+[incident] train ep 32/40 eps=0.05 delay=27.6 queue=0.27
+ Retrying in 1 seconds
+[incident] train ep 33/40 eps=0.05 delay=23.1 queue=0.18
+ Retrying in 1 seconds
+[incident] train ep 34/40 eps=0.05 delay=28.7 queue=0.29
+ Retrying in 1 seconds
+[incident] train ep 35/40 eps=0.05 delay=28.3 queue=0.29
+ Retrying in 1 seconds
+[incident] train ep 36/40 eps=0.05 delay=25.4 queue=0.23
+ Retrying in 1 seconds
+[incident] train ep 37/40 eps=0.05 delay=28.6 queue=0.29
+ Retrying in 1 seconds
+[incident] train ep 38/40 eps=0.05 delay=27.8 queue=0.27
+ Retrying in 1 seconds
+[incident] train ep 39/40 eps=0.05 delay=26.1 queue=0.25
+ Retrying in 1 seconds
+[incident] train ep 40/40 eps=0.05 delay=23.4 queue=0.18
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[incident] eval seed 1: fixed_time=63 rule_original=22 rule_corrected=27 sumo_actuated=22 max_pressure=26 dqn=22
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[incident] eval seed 2: fixed_time=63 rule_original=22 rule_corrected=28 sumo_actuated=24 max_pressure=31 dqn=22
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[incident] eval seed 3: fixed_time=63 rule_original=22 rule_corrected=28 sumo_actuated=22 max_pressure=36 dqn=22
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[incident] eval seed 4: fixed_time=63 rule_original=22 rule_corrected=32 sumo_actuated=22 max_pressure=32 dqn=22
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[incident] eval seed 5: fixed_time=62 rule_original=22 rule_corrected=27 sumo_actuated=22 max_pressure=30 dqn=22
+[incident] done in 282s
+ Retrying in 1 seconds
+[bimodal] train ep 1/40 eps=0.96 delay=32.7 queue=0.38
+ Retrying in 1 seconds
+[bimodal] train ep 2/40 eps=0.92 delay=31.2 queue=0.34
+ Retrying in 1 seconds
+[bimodal] train ep 3/40 eps=0.88 delay=29.9 queue=0.31
+ Retrying in 1 seconds
+[bimodal] train ep 4/40 eps=0.84 delay=30.4 queue=0.34
+ Retrying in 1 seconds
+[bimodal] train ep 5/40 eps=0.80 delay=30.1 queue=0.32
+ Retrying in 1 seconds
+[bimodal] train ep 6/40 eps=0.76 delay=29.5 queue=0.31
+ Retrying in 1 seconds
+[bimodal] train ep 7/40 eps=0.72 delay=29.6 queue=0.31
+ Retrying in 1 seconds
+[bimodal] train ep 8/40 eps=0.68 delay=28.6 queue=0.30
+ Retrying in 1 seconds
+[bimodal] train ep 9/40 eps=0.64 delay=29.5 queue=0.31
+ Retrying in 1 seconds
+[bimodal] train ep 10/40 eps=0.60 delay=27.8 queue=0.28
+ Retrying in 1 seconds
+[bimodal] train ep 11/40 eps=0.56 delay=31.0 queue=0.33
+ Retrying in 1 seconds
+[bimodal] train ep 12/40 eps=0.53 delay=29.3 queue=0.31
+ Retrying in 1 seconds
+[bimodal] train ep 13/40 eps=0.49 delay=27.8 queue=0.27
+ Retrying in 1 seconds
+[bimodal] train ep 14/40 eps=0.45 delay=28.3 queue=0.29
+ Retrying in 1 seconds
+[bimodal] train ep 15/40 eps=0.41 delay=28.5 queue=0.29
+ Retrying in 1 seconds
+[bimodal] train ep 16/40 eps=0.37 delay=29.2 queue=0.32
+ Retrying in 1 seconds
+[bimodal] train ep 17/40 eps=0.33 delay=27.8 queue=0.28
+ Retrying in 1 seconds
+[bimodal] train ep 18/40 eps=0.29 delay=30.4 queue=0.33
+ Retrying in 1 seconds
+[bimodal] train ep 19/40 eps=0.25 delay=26.1 queue=0.24
+ Retrying in 1 seconds
+[bimodal] train ep 20/40 eps=0.21 delay=27.5 queue=0.28
+ Retrying in 1 seconds
+[bimodal] train ep 21/40 eps=0.17 delay=27.4 queue=0.26
+ Retrying in 1 seconds
+[bimodal] train ep 22/40 eps=0.13 delay=25.8 queue=0.24
+ Retrying in 1 seconds
+[bimodal] train ep 23/40 eps=0.09 delay=22.6 queue=0.18
+ Retrying in 1 seconds
+[bimodal] train ep 24/40 eps=0.05 delay=25.4 queue=0.23
+ Retrying in 1 seconds
+[bimodal] train ep 25/40 eps=0.05 delay=22.4 queue=0.17
+ Retrying in 1 seconds
+[bimodal] train ep 26/40 eps=0.05 delay=22.8 queue=0.18
+ Retrying in 1 seconds
+[bimodal] train ep 27/40 eps=0.05 delay=25.0 queue=0.22
+ Retrying in 1 seconds
+[bimodal] train ep 28/40 eps=0.05 delay=24.4 queue=0.21
+ Retrying in 1 seconds
+[bimodal] train ep 29/40 eps=0.05 delay=23.3 queue=0.19
+ Retrying in 1 seconds
+[bimodal] train ep 30/40 eps=0.05 delay=24.5 queue=0.21
+ Retrying in 1 seconds
+[bimodal] train ep 31/40 eps=0.05 delay=24.1 queue=0.21
+ Retrying in 1 seconds
+[bimodal] train ep 32/40 eps=0.05 delay=24.7 queue=0.22
+ Retrying in 1 seconds
+[bimodal] train ep 33/40 eps=0.05 delay=30.5 queue=0.33
+ Retrying in 1 seconds
+[bimodal] train ep 34/40 eps=0.05 delay=22.3 queue=0.18
+ Retrying in 1 seconds
+[bimodal] train ep 35/40 eps=0.05 delay=22.1 queue=0.17
+ Retrying in 1 seconds
+[bimodal] train ep 36/40 eps=0.05 delay=23.1 queue=0.18
+ Retrying in 1 seconds
+[bimodal] train ep 37/40 eps=0.05 delay=24.2 queue=0.19
+ Retrying in 1 seconds
+[bimodal] train ep 38/40 eps=0.05 delay=24.7 queue=0.21
+ Retrying in 1 seconds
+[bimodal] train ep 39/40 eps=0.05 delay=22.4 queue=0.18
+ Retrying in 1 seconds
+[bimodal] train ep 40/40 eps=0.05 delay=24.6 queue=0.21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[bimodal] eval seed 1: fixed_time=62 rule_original=21 rule_corrected=30 sumo_actuated=22 max_pressure=37 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[bimodal] eval seed 2: fixed_time=61 rule_original=21 rule_corrected=24 sumo_actuated=21 max_pressure=27 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[bimodal] eval seed 3: fixed_time=62 rule_original=21 rule_corrected=28 sumo_actuated=22 max_pressure=28 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[bimodal] eval seed 4: fixed_time=61 rule_original=21 rule_corrected=26 sumo_actuated=21 max_pressure=33 dqn=21
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[bimodal] eval seed 5: fixed_time=63 rule_original=21 rule_corrected=28 sumo_actuated=21 max_pressure=27 dqn=21
+[bimodal] done in 286s
+ Retrying in 1 seconds
+[morning_peak] train ep 1/40 eps=0.96 delay=32.3 queue=0.38
+ Retrying in 1 seconds
+[morning_peak] train ep 2/40 eps=0.92 delay=30.3 queue=0.34
+ Retrying in 1 seconds
+[morning_peak] train ep 3/40 eps=0.88 delay=30.1 queue=0.32
+ Retrying in 1 seconds
+[morning_peak] train ep 4/40 eps=0.84 delay=30.6 queue=0.34
+ Retrying in 1 seconds
+[morning_peak] train ep 5/40 eps=0.80 delay=30.4 queue=0.33
+ Retrying in 1 seconds
+[morning_peak] train ep 6/40 eps=0.76 delay=30.9 queue=0.34
+ Retrying in 1 seconds
+[morning_peak] train ep 7/40 eps=0.72 delay=29.5 queue=0.31
+ Retrying in 1 seconds
+[morning_peak] train ep 8/40 eps=0.68 delay=29.0 queue=0.30
+ Retrying in 1 seconds
+[morning_peak] train ep 9/40 eps=0.64 delay=29.8 queue=0.31
+ Retrying in 1 seconds
+[morning_peak] train ep 10/40 eps=0.60 delay=27.8 queue=0.27
+ Retrying in 1 seconds
+[morning_peak] train ep 11/40 eps=0.56 delay=31.6 queue=0.35
+ Retrying in 1 seconds
+[morning_peak] train ep 12/40 eps=0.53 delay=29.0 queue=0.29
+ Retrying in 1 seconds
+[morning_peak] train ep 13/40 eps=0.49 delay=26.1 queue=0.25
+ Retrying in 1 seconds
+[morning_peak] train ep 14/40 eps=0.45 delay=28.5 queue=0.30
+ Retrying in 1 seconds
+[morning_peak] train ep 15/40 eps=0.41 delay=28.8 queue=0.30
+ Retrying in 1 seconds
+[morning_peak] train ep 16/40 eps=0.37 delay=29.2 queue=0.31
+ Retrying in 1 seconds
+[morning_peak] train ep 17/40 eps=0.33 delay=29.2 queue=0.31
+ Retrying in 1 seconds
+[morning_peak] train ep 18/40 eps=0.29 delay=30.1 queue=0.32
+ Retrying in 1 seconds
+[morning_peak] train ep 19/40 eps=0.25 delay=30.9 queue=0.33
+ Retrying in 1 seconds
+[morning_peak] train ep 20/40 eps=0.21 delay=25.3 queue=0.24
+ Retrying in 1 seconds
+[morning_peak] train ep 21/40 eps=0.17 delay=32.0 queue=0.36
+ Retrying in 1 seconds
+[morning_peak] train ep 22/40 eps=0.13 delay=32.6 queue=0.37
+ Retrying in 1 seconds
+[morning_peak] train ep 23/40 eps=0.09 delay=32.4 queue=0.36
+ Retrying in 1 seconds
+[morning_peak] train ep 24/40 eps=0.05 delay=32.1 queue=0.35
+ Retrying in 1 seconds
+[morning_peak] train ep 25/40 eps=0.05 delay=28.8 queue=0.31
+ Retrying in 1 seconds
+[morning_peak] train ep 26/40 eps=0.05 delay=22.2 queue=0.17
+ Retrying in 1 seconds
+[morning_peak] train ep 27/40 eps=0.05 delay=25.7 queue=0.23
+ Retrying in 1 seconds
+[morning_peak] train ep 28/40 eps=0.05 delay=22.5 queue=0.18
+ Retrying in 1 seconds
+[morning_peak] train ep 29/40 eps=0.05 delay=27.5 queue=0.26
+ Retrying in 1 seconds
+[morning_peak] train ep 30/40 eps=0.05 delay=32.1 queue=0.36
+ Retrying in 1 seconds
+[morning_peak] train ep 31/40 eps=0.05 delay=29.1 queue=0.30
+ Retrying in 1 seconds
+[morning_peak] train ep 32/40 eps=0.05 delay=27.7 queue=0.26
+ Retrying in 1 seconds
+[morning_peak] train ep 33/40 eps=0.05 delay=28.9 queue=0.30
+ Retrying in 1 seconds
+[morning_peak] train ep 34/40 eps=0.05 delay=31.8 queue=0.35
+ Retrying in 1 seconds
+[morning_peak] train ep 35/40 eps=0.05 delay=22.7 queue=0.18
+ Retrying in 1 seconds
+[morning_peak] train ep 36/40 eps=0.05 delay=28.3 queue=0.29
+ Retrying in 1 seconds
+[morning_peak] train ep 37/40 eps=0.05 delay=23.5 queue=0.19
+ Retrying in 1 seconds
+[morning_peak] train ep 38/40 eps=0.05 delay=28.3 queue=0.29
+ Retrying in 1 seconds
+[morning_peak] train ep 39/40 eps=0.05 delay=28.3 queue=0.28
+ Retrying in 1 seconds
+[morning_peak] train ep 40/40 eps=0.05 delay=27.4 queue=0.27
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[morning_peak] eval seed 1: fixed_time=62 rule_original=21 rule_corrected=29 sumo_actuated=23 max_pressure=29 dqn=26
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[morning_peak] eval seed 2: fixed_time=63 rule_original=21 rule_corrected=28 sumo_actuated=22 max_pressure=28 dqn=27
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[morning_peak] eval seed 3: fixed_time=63 rule_original=22 rule_corrected=25 sumo_actuated=22 max_pressure=25 dqn=26
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[morning_peak] eval seed 4: fixed_time=63 rule_original=22 rule_corrected=27 sumo_actuated=22 max_pressure=27 dqn=26
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[morning_peak] eval seed 5: fixed_time=63 rule_original=22 rule_corrected=26 sumo_actuated=21 max_pressure=26 dqn=27
+[morning_peak] done in 286s
+ Retrying in 1 seconds
+[evening_peak] train ep 1/40 eps=0.96 delay=32.2 queue=0.37
+ Retrying in 1 seconds
+[evening_peak] train ep 2/40 eps=0.92 delay=31.0 queue=0.35
+ Retrying in 1 seconds
+[evening_peak] train ep 3/40 eps=0.88 delay=29.3 queue=0.30
+ Retrying in 1 seconds
+[evening_peak] train ep 4/40 eps=0.84 delay=31.4 queue=0.35
+ Retrying in 1 seconds
+[evening_peak] train ep 5/40 eps=0.80 delay=30.3 queue=0.33
+ Retrying in 1 seconds
+[evening_peak] train ep 6/40 eps=0.76 delay=30.3 queue=0.34
+ Retrying in 1 seconds
+[evening_peak] train ep 7/40 eps=0.72 delay=29.3 queue=0.30
+ Retrying in 1 seconds
+[evening_peak] train ep 8/40 eps=0.68 delay=29.9 queue=0.32
+ Retrying in 1 seconds
+[evening_peak] train ep 9/40 eps=0.64 delay=30.5 queue=0.33
+ Retrying in 1 seconds
+[evening_peak] train ep 10/40 eps=0.60 delay=27.8 queue=0.27
+ Retrying in 1 seconds
+[evening_peak] train ep 11/40 eps=0.56 delay=31.2 queue=0.33
+ Retrying in 1 seconds
+[evening_peak] train ep 12/40 eps=0.53 delay=30.8 queue=0.33
+ Retrying in 1 seconds
+[evening_peak] train ep 13/40 eps=0.49 delay=27.7 queue=0.28
+ Retrying in 1 seconds
+[evening_peak] train ep 14/40 eps=0.45 delay=29.7 queue=0.32
+ Retrying in 1 seconds
+[evening_peak] train ep 15/40 eps=0.41 delay=29.1 queue=0.30
+ Retrying in 1 seconds
+[evening_peak] train ep 16/40 eps=0.37 delay=29.0 queue=0.31
+ Retrying in 1 seconds
+[evening_peak] train ep 17/40 eps=0.33 delay=29.4 queue=0.31
+ Retrying in 1 seconds
+[evening_peak] train ep 18/40 eps=0.29 delay=27.1 queue=0.26
+ Retrying in 1 seconds
+[evening_peak] train ep 19/40 eps=0.25 delay=31.3 queue=0.35
+ Retrying in 1 seconds
+[evening_peak] train ep 20/40 eps=0.21 delay=27.3 queue=0.27
+ Retrying in 1 seconds
+[evening_peak] train ep 21/40 eps=0.17 delay=25.0 queue=0.22
+ Retrying in 1 seconds
+[evening_peak] train ep 22/40 eps=0.13 delay=26.8 queue=0.26
+ Retrying in 1 seconds
+[evening_peak] train ep 23/40 eps=0.09 delay=31.7 queue=0.35
+ Retrying in 1 seconds
+[evening_peak] train ep 24/40 eps=0.05 delay=23.3 queue=0.19
+ Retrying in 1 seconds
+[evening_peak] train ep 25/40 eps=0.05 delay=26.9 queue=0.27
+ Retrying in 1 seconds
+[evening_peak] train ep 26/40 eps=0.05 delay=27.6 queue=0.29
+ Retrying in 1 seconds
+[evening_peak] train ep 27/40 eps=0.05 delay=26.1 queue=0.25
+ Retrying in 1 seconds
+[evening_peak] train ep 28/40 eps=0.05 delay=24.9 queue=0.22
+ Retrying in 1 seconds
+[evening_peak] train ep 29/40 eps=0.05 delay=24.6 queue=0.22
+ Retrying in 1 seconds
+[evening_peak] train ep 30/40 eps=0.05 delay=29.5 queue=0.31
+ Retrying in 1 seconds
+[evening_peak] train ep 31/40 eps=0.05 delay=31.4 queue=0.34
+ Retrying in 1 seconds
+[evening_peak] train ep 32/40 eps=0.05 delay=24.5 queue=0.21
+ Retrying in 1 seconds
+[evening_peak] train ep 33/40 eps=0.05 delay=25.4 queue=0.24
+ Retrying in 1 seconds
+[evening_peak] train ep 34/40 eps=0.05 delay=27.1 queue=0.27
+ Retrying in 1 seconds
+[evening_peak] train ep 35/40 eps=0.05 delay=28.3 queue=0.28
+ Retrying in 1 seconds
+[evening_peak] train ep 36/40 eps=0.05 delay=32.1 queue=0.36
+ Retrying in 1 seconds
+[evening_peak] train ep 37/40 eps=0.05 delay=25.0 queue=0.23
+ Retrying in 1 seconds
+[evening_peak] train ep 38/40 eps=0.05 delay=25.8 queue=0.25
+ Retrying in 1 seconds
+[evening_peak] train ep 39/40 eps=0.05 delay=25.1 queue=0.24
+ Retrying in 1 seconds
+[evening_peak] train ep 40/40 eps=0.05 delay=30.5 queue=0.33
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[evening_peak] eval seed 1: fixed_time=62 rule_original=21 rule_corrected=24 sumo_actuated=22 max_pressure=24 dqn=27
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[evening_peak] eval seed 2: fixed_time=63 rule_original=21 rule_corrected=31 sumo_actuated=23 max_pressure=27 dqn=25
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[evening_peak] eval seed 3: fixed_time=63 rule_original=21 rule_corrected=25 sumo_actuated=22 max_pressure=25 dqn=27
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[evening_peak] eval seed 4: fixed_time=63 rule_original=21 rule_corrected=28 sumo_actuated=23 max_pressure=28 dqn=26
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+[evening_peak] eval seed 5: fixed_time=63 rule_original=21 rule_corrected=34 sumo_actuated=22 max_pressure=32 dqn=23
+[evening_peak] done in 289s
